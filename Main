@@ -1,0 +1,576 @@
+{{frontCover}}
+
+### O CONTO DA LUZ E DAS TREVAS
+
+## HOME {{logo}} BREWERY
+
+# LUMEN
+
+![Front Cover Image](https://i.imgur.com/piyO0X5.jpg) {bottom:-7.4%,left:-416px,height:115%}
+
+\page
+
+{{insideCover}}
+
+# LUMEN
+___
+{width:10cm}
+
+![background image](https://i.imgur.com/3xpBuEt.png){position:absolute,top:20%,left:16%,width:68%}
+
+{{watercolor6,top:0px,left:830px,width:300px,transform:rotate(-50deg),background-color:#aaa4bc,opacity:70%}}
+
+{{watercolor2,top:130px,left:-180px,width:390px,transform:rotate(30deg),background-color:#dbc899,opacity:70%}}
+
+{{artist,left:38px
+[Daarken](https://www.daarken.com/)
+}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+\page
+
+{{toc,wide
+# Indice
+
+- ### [{{ Archivium}}{{ 4}}](#p4)
+  - #### [{{ Barnabé Sandshifter}}{{ 5}}](#p5)
+- ### [{{ Bestiarium}}{{ 6}}](#p6)
+- ### [{{ Grimorium}}{{ 7}}](#p7)
+- ### [{{ Sumarium}}{{ 8}}](#p8)
+  - #### [{{ Combate}}{{ 9}}](#p9)
+    - [{{ Ordem de Combate}}{{ 9}}](#p9)
+    - [{{ Iniciativa}}{{ 9}}](#p9)
+}}
+
+
+
+\page
+
+{{fullPage
+
+![image](https://i.imgur.com/hI6H4dn.jpg) {width:950px,left:-45px;}
+
+}}
+
+{{caption,right
+World-traveling explorers Hank, Bobby, 
+
+Sheila, Diana, and Presto stand on the 
+
+threshold of their next adventure
+}}
+
+# Archivium
+
+{{banner,--color:"rgba(177, 154, 120, 0.8)"
+## Mergulhe nos grande arquivos...
+}}
+
+{{artist
+[Dmitri Burmak](https://burmak.ru/)
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+<div style="text-align: justify;"> 
+<div style="text-align: center;">
+
+## BARNABÉ "SANDSHIFTER"</div>
+
+  <div style="margin-top: 5px;"></div>
+
+Barnabé “Sandshifter” é um ex-caçador de recompensas pouco conhecido, que atuou aos arredores da vila de São Tomé, localizado perto da fronteiro com o deserto de Solara. 
+
+<div style="text-align: center;">
+
+## APARÊNCIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+Pelagem preta, com uma parte branca debaixo da boca parecido com uma barba,  olhos marrons. Usa um chapéu de cowboy, camisa branca com uma jaqueta de couro por cima. Usa uma bandoleira com balas de rifle por cima da jaqueta de couro, mas é apenas decorativa. Usa uma calça de couro, e não usa sapatos.
+
+<div style="text-align: center;">
+
+## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+**Barnabé.** Individualista, Meticuloso e Neurótico, porém Justo. Trata todos com respeito, desde que o respeitem de volta. Curte uma cervejinha. Perfeccionista do tipo chato, dificilmente improvisa algo. Pra ele, tudo precisa ser planejado. 
+
+:
+
+**Wukong.** Teimoso, egoísta e espontâneo. Se considera o centro do mundo, o protagonista. Acredita que tudo que acontece ao seu redor é apenas um entretenimento passageiro, não leva nada a sério. Mestre do improviso, dificilmente pensa antes de agir.
+
+<div style="text-align: center;">
+
+## HABILIDADES</div>
+
+  <div style="margin-top: 5px;"></div>
+
+Pouco experiente, mas proficiente utilizando armas de fogo e algumas armas brancas, principalmente bastões, devido a sua outra alma. Apesar de sua personalidade meticulosa, ele adota um estilo de combate explosivo, dependente de tomadas de decisão rápidas e acertos consecutivos, herdado de Wukong.
+
+<div style="text-align: center;">
+
+## TRIVIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+{{descriptive
+• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+}}
+
+</div>
+
+\column
+
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+
+{{classTraits
+
+![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+
+<div style="text-align: center;">
+  #### BARNABÉ SANDSHIFTER</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Alcunha** {{width:32px}} O pistoleiro de São Tomé
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Pronúncia** {{width:20px}} Bar-na-BÉ SAND-shif-ter
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+  #### CARACTERÍSTICAS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Espécie** {{width:37px}} Simian
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Nascimento** {{width:14px}} 668 {{width:4px}}  (Calendário Simian) {{width:119px}} 1759 (Calendário Humano)
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Idade** {{width:50px}} 20
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Gênero** {{width:40px}} Masculino
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Altura** {{width:47px}} 1,70
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso** {{width:55px}} 65kg
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo** {{width:44px}} Preto
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos** {{width:50px}} Marrons 
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+  #### CONDIÇÃO
+</div>
+
+<div style="margin-top: 10px;"></div>
+
+{{width:30px}} **Origem** {{width:44px}} Deserto de Solara
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Afiliações** {{width:32px}} Phillip “Carrasco”
+{{width:124px}} A aldeia do Deus-Rei Macaco {{width:124px}} Guilda de Mercenários de São {{width:124px}} Tomé
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Ocupações** {{width:26px}} Pistoleiro
+
+<div style="margin-top: -10px;"></div>
+
+___
+
+<div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares** {{width:26px}} Riverwalker (Mãe) {{width:126px}} Blazekeeper (Pai)
+
+<div style="margin-top: 10px;"></div>
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Archivium | Barnabé Sandshifter }}
+
+\page
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![dance background](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![dance overlay](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+[Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: center;">
+
+## HISTÓRIA
+
+</div>
+
+<div style="margin-top: 5px;"></div>
+
+
+<div style="text-align: justify;">
+
+"Barnabé" Sandshifter nasceu em uma aldeia extremamente remota situada num oásis no grande deserto de Solara, onde o povo Simian vivia em conjunto com Elementais. Devido a presença de elementais no dia a dia, todos de sua raça tem uma extrema afinidade com magia, com a exceção de Sandshifter. Em sua cultura, quando uma criança nascia, não recebia nome. O mesmo só era dado após a mesma realizar um grande feito, reconhecido pelo líder da aldeia.
+
+:
+
+Sua aldeia, nomeada de Grande Aldeia do Deus Rei Macaco cultuava o Grande Macaco, que diziam ser o antepassado de todos os Simians e Humanos. Entre suas práticas religiosas, a que mais se destaca é a peregrinação obrigatória que toda criança simian deve participar, pois dizem que assim os pequenos despertam o seu potencial mágico. Nascido da grande Riverwalker e do pouco conhecido Blazekeeper, Sandshifter recebeu seu nome aos 12 anos após participar de uma peregrinação pelo grande deserto de Solara, em que foi atacado por uma matilha de Lobos-do-deserto junto de outras crianças, mas foi capaz de espantá-los sem nenhuma arma. As crianças após relatarem o ocorrido, descreveram como se ele estivesse surfando sobre as areias do deserto, desviando das garras dos lobos e os atacando em pontos que os incomodava. Após isso, o líder de sua tribo o nomeou Sandshifter.
+
+:
+
+Mesmo após finalmente ganhar um nome, quando voltou da peregrinação, Sandshifter não havia despertado magicamente. Muito pelo contrário, após ser examinado por um dos 12 anciões da aldeia, foi descoberto que Sandshifter não tinha potencial nenhum para magia, e que ele provavelmente nunca despertaria. Mesmo sendo uma comunidade extremamente unida, rumores ainda corriam por aí. Alguns fiéis começaram a comparar Sandshifter com seu Deus, dizendo que o mesmo também não tinha afinidade a magia, e alguns começaram a acreditar que o mesmo poderia ser uma reencarnação do Deus Rei Macaco. Após um tempo, foi decidido que um ritual seria feito para tentarem despertar seu potencial mágico, para desprovar as teorias de alguns fiéis faanáticos.
+Não querendo saber de nada disso, Sandshifter pega suas coisas e foge da aldeia. O mesmo já tinha o deserto na palma de sua mão, já sabia como enfrentar as criaturas que o rondavam, e já sabia como sobreviver nas areias escaldantes do mesmo. Ele sabia que era somente questão de tempo até ele alcançar alguma vila ou cidade.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Nome do Personagem}}
+
+\page
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![dance background](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![dance overlay](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+[Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: center;">
+
+## HISTÓRIA
+
+</div>
+
+<div style="margin-top: 5px;"></div>
+
+
+<div style="text-align: justify;">
+
+Sua viagem levou 43 dias, até chegar a uma pequena vila onde conheceu quem atualmente ele considera seu mentor. Phillip "Carrasco". O mesmo lhe deu o nome Barnabé, o ensinou a falar a língua comum, como manusear armas de fogo, e também como exercer o trabalho de caçador de recompensas. Após isso, Barnabé começa a sofrer de sua condição curiosa, em que de repente, por períodos indeterminados de tempo, ele perdia o controle de seu corpo, como se entrasse num sono profundo.
+
+:
+
+Phillip nota isso após uma comissão dar errado quando a entidade dentro de Barnabé se liberou em um momento indesejado, a mesma sendo o completo oposto de Barnabé, brincalhona, extremamente confiante,sem medo algum. Buscando saber mais sobre a condição de seu amigo, Phillip vai atrás de Mestres Espirituais, pessoas que tem um grande conhecimento sobre magia, espíritos, e criaturas além do plano inferior. 
+Phillip, junto de Barnabé, vão ao encontro do Mestre Akupara, no local de seus estudos, para tentar descobrir o que há de errado com seu corpo. Barnabé já tinha ideias do que poderia ser, afinal o mesmo se lembra de toda a comoção que aconteceu em sua vila após voltar de sua peregrinação. Os três, então, tentam entrar em contato com a outra alma habitando o corpo de Barnabé. Para isso, o mestre fez um poderoso chá usando Flores de Lótus Pretas, e deu para Barnabé tomar. Brevemente após isso, Barnabé cai ao chão, inconsciente, e logo em seguida se levante, como outra pessoa. A outra alma habitando o corpo então começa a pular de um lado para o outro, derrubando várias coisas ao chão, gargalhando enquanto fazia tudo isso. Akupara sabia da existência dos Simians e de seu deus, porém não imaginava que o mesmo estaria possuindo Barnabé, mas após o mesmo se proclamar como o Deus Rei Macaco, não havia mais dúvidas.
+
+:
+
+Akupara então, diz ao Phillip que para fazer o Barnabé retomar o controle de seu corpo, o mesmo deveria tomar um Chá forte de Flores de Lótus Brancas. Desde esse dia, Barnabé não tentou mais contato com o outro Macaco vivendo dentro de si, e toma regularmente o chá indicado por Akupara, cerca de uma vez a cada 2 dias.
+Barnabé morreu fuzilado alguns anos após conhecer seu mestre, em uma emboscada feita por um criminoso que guardava rancor por ter matado e levado ao xerife o corpo de um membro de sua gangue.
+
+
+
+
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Nome do Personagem}}
+
+\page
+
+{{table,wide
+##### CARACTERÍSTICAS DO LUTADOR
+| **Nível** | **Bônus de Proficiência** | **Características da Classe**                            | **Segundo Fôlego** | **Maestria com Armas** |
+|:---------:|:-------------------------:|:---------------------------------------------------------|:------------------:|:----------------------:|
+| **1**     | **+2**                    | **Estilo de Luta, Recuperar Fôlego, Maestria com Armas** | **2**              | **3**                  |
+| **2**     | **+2**                    | **Surto de Ação, Visão Táctica**                         | **2**              | **3**                  |
+| **3**     | **+2**                    | **Subclasse do Lutador**                                 | **2**              | **3**                  |
+| **4**     | **+2**                    | **Aumento no Valor de Habilidade**                       | **3**              | **4**                  |
+| **5**     | **+3**                    | **Ataque Extra, Mudança Tática**                         | **3**              | **4**                  |
+| **6**     | **+3**                    | **Aumento no Valor de Habilidade**                       | **3**              | **4**                  |
+| **7**     | **+3**                    | **Característica de Subclasse**                          | **3**              | **4**                  |
+| **8**     | **+3**                    | **Aumento no Valor de Habilidade**                       | **3**              | **4**                  |
+| **9**     | **+4**                    | **Indomável, Mestre Tático**                             | **3**              | **4**                  |
+| **10**    | **+4**                    | **Característica de Subclasse**                          | **4**              | **5**                  |
+| **11**    | **+4**                    | **Ataque Extra (x2)**                                    | **4**              | **5**                  |
+| **12**    | **+4**                    | **Aumento no Valor de Habilidade**                       | **4**              | **5**                  | 
+}}
+
+
+\page
+
+{{fullPage
+
+![image](https://i.imgur.com/hI6H4dn.jpg) {width:950px,left:-45px;}
+
+}}
+
+{{caption,right
+World-traveling explorers Hank, Bobby, 
+
+Sheila, Diana, and Presto stand on the 
+
+threshold of their next adventure
+}}
+
+# Bestiarium
+
+{{banner,--color:"rgba(177, 154, 120, 0.8)"
+## Caçe as mais terríveis feras...
+}}
+
+{{artist
+[Dmitri Burmak](https://burmak.ru/)
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+
+{{monster,frame
+## Gnoll
+*Humanoide Médio, Caótico Mau*
+
+{{stats
+
+{{vitals
+**CA**         :: 15
+**PV**         :: 22 (5d8)
+**Deslocamento**      :: 9 m
+\column
+**Iniciativa** :: +3 (13)
+}}
+
+{{tables
+|   |    |  MOD | RES  |
+|:--|:--:|:----:|:----:|
+|For| 14 |  +2  |  +2  |
+|Int| 6  | --2  | --2  |
+
+|   |   |  MOD | RES   |
+|:--|:-:|:----:|:-----:|
+|Des| 12|  +1  |  +1   |
+|Sab| 10|  +0  |  +0   |
+
+|   |   |  MOD | RES   |
+|:--|:-:|:----:|:-----:|
+|Con| 10|  +0  |  +0   |
+|Car| 6 |  --2 | --2   |
+}}
+**Vulnerabilidades** :: Fogo
+**Resistências** :: Contundente
+**Senses**       :: Percepção passiva 10
+**Languages**   :: Comum, Gnoll
+**CR**          :: 1/2 (XP 100; BP +2)
+}}
+
+### Traços
+***Fúria*** Quando o gnoll reduz uma criatura a 0 pontos de vida com um ataque corpo a corpo em seu turno, o gnoll pode realizar uma ação bônus para se mover metade de sua velocidade e fazer um ataque de mordida.
+:
+### Actions
+***Mordida.*** *Ataque Corpo-a-Corpo:* +4, Alcance 1,5 m. *Ataque* 4 (1d4 + 2) de dano Cortante.
+:
+***Lança.*** *Ataque Corpo-a-Corpo:* +4, Alcance 1,5 m. *Ataque* 5 (1d6 + 2) de dano perfurante.
+:
+***Arco Longo.*** *Ataque a Distância:* +4, Alcance 1,5 m. *Ataque* 5 (1d6 + 2) de dano perfurante.
+
+
+}}
+
+
+
+\page
+
+{{fullPage
+
+![image](https://i.imgur.com/hI6H4dn.jpg) {width:950px,left:-45px;}
+
+}}
+
+{{caption,right
+World-traveling explorers Hank, Bobby, 
+
+Sheila, Diana, and Presto stand on the 
+
+threshold of their next adventure
+}}
+
+# Grimorium
+
+{{banner,--color:"rgba(177, 154, 120, 0.8)"
+## Desbrave as mais antigas reliquias...
+}}
+
+{{artist
+[Dmitri Burmak](https://burmak.ru/)
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{fullPage
+
+![image](https://i.imgur.com/hI6H4dn.jpg) {width:950px,left:-45px;}
+
+}}
+
+{{caption,right
+World-traveling explorers Hank, Bobby, 
+
+Sheila, Diana, and Presto stand on the 
+
+threshold of their next adventure
+}}
+
+# Sumarium
+
+{{banner,--color:"rgba(177, 154, 120, 0.8)"
+## Descubra as regras que regem o mundo...
+}}
+
+{{artist
+[Dmitri Burmak](https://burmak.ru/)
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{chapter,gradient,--color:#7c4848
+
+## Sumarium
+# Regras
+___
+}}
+
+
+
+## Ordem de Combate
+
+**Ação do Ambiente.** Se o ambiente apresentar algum elemento ativo, eles ocorrem no início da rodada, antes que os participantes realizem suas ações.
+
+:
+
+**Seu Turno.** O personagem ativo se move e utiliza suas ações disponíveis.
+
+:
+
+**Fora do Seu Turno.** Os personagens inativos planejam seu próximo turno e reagem às ações do personagem ativo.
+
+:
+
+**Fim da Rodada.** Quando todos tiverem feito seu turno, a rodada de iniciativa se repete até que o encontro se conclua.
+
+:
+
+## Iniciativa
+
+Durante o início de um encontro, cada participante rolará 1d20 + seu modificador de Destreza para decidir seu lugar na iniciativa, do maior para o menor.
+
+:
+
+**Turno compartilhado.** Personagens aliados que compartilharem iniciativas adjacentes poderão agir ao mesmo tempo, entrelaçando suas ações.
+
+:
+
+**Atrasar turno.** No início de seu turno, um personagem pode escolher atrasar, selecionando um valor no qual se manterá até o fim do combate ou decidir reduzir novamente.
+
+:
+
