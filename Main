@@ -6,7 +6,7 @@
 
 # LUMEN
 
-![Front Cover Image](https://i.imgur.com/piyO0X5.jpg) {bottom:-7.4%,left:-416px,height:115%}
+![](https://i.imgur.com/piyO0X5.jpg) {bottom:-7.4%,left:-416px,height:115%}
 
 \page
 
@@ -35,15 +35,16 @@ ___
 
 - ### [{{ Archivium}}{{ 4}}](#p4)
   - #### [{{ Barnabé Sandshifter}}{{ 5}}](#p5)
-- ### [{{ Bestiarium}}{{ 6}}](#p6)
-- ### [{{ Grimorium}}{{ 7}}](#p7)
-- ### [{{ Sumarium}}{{ 8}}](#p8)
-  - #### [{{ Combate}}{{ 9}}](#p9)
-    - [{{ Ordem de Combate}}{{ 9}}](#p9)
-    - [{{ Iniciativa}}{{ 9}}](#p9)
+  
+- ### [{{ Bestiarium}}{{ 8}}](#p6)
+  - #### [{{ Gnoll}}{{ 9}}](#p9)
+  - #### [{{ Harpia}}{{ 10}}](#p10)
+
+- ### [{{ Grimorium}}{{ 11}}](#p11)
+
+- ### [{{ Sumarium}}{{ 12}}](#p12)
+
 }}
-
-
 
 \page
 
@@ -316,7 +317,7 @@ Não querendo saber de nada disso, Sandshifter pega suas coisas e foge da aldeia
 </div>
 
 {{pageNumber,auto}}
-{{footnote Archivium | Nome do Personagem}}
+{{footnote Archivium | Barnabé Sandshifter }}
 
 \page
 
@@ -362,35 +363,10 @@ Phillip, junto de Barnabé, vão ao encontro do Mestre Akupara, no local de seus
 Akupara então, diz ao Phillip que para fazer o Barnabé retomar o controle de seu corpo, o mesmo deveria tomar um Chá forte de Flores de Lótus Brancas. Desde esse dia, Barnabé não tentou mais contato com o outro Macaco vivendo dentro de si, e toma regularmente o chá indicado por Akupara, cerca de uma vez a cada 2 dias.
 Barnabé morreu fuzilado alguns anos após conhecer seu mestre, em uma emboscada feita por um criminoso que guardava rancor por ter matado e levado ao xerife o corpo de um membro de sua gangue.
 
-
-
-
-
 </div>
 
 {{pageNumber,auto}}
-{{footnote Archivium | Nome do Personagem}}
-
-\page
-
-{{table,wide
-##### CARACTERÍSTICAS DO LUTADOR
-| **Nível** | **Bônus de Proficiência** | **Características da Classe**                            | **Segundo Fôlego** | **Maestria com Armas** |
-|:---------:|:-------------------------:|:---------------------------------------------------------|:------------------:|:----------------------:|
-| **1**     | **+2**                    | **Estilo de Luta, Recuperar Fôlego, Maestria com Armas** | **2**              | **3**                  |
-| **2**     | **+2**                    | **Surto de Ação, Visão Táctica**                         | **2**              | **3**                  |
-| **3**     | **+2**                    | **Subclasse do Lutador**                                 | **2**              | **3**                  |
-| **4**     | **+2**                    | **Aumento no Valor de Habilidade**                       | **3**              | **4**                  |
-| **5**     | **+3**                    | **Ataque Extra, Mudança Tática**                         | **3**              | **4**                  |
-| **6**     | **+3**                    | **Aumento no Valor de Habilidade**                       | **3**              | **4**                  |
-| **7**     | **+3**                    | **Característica de Subclasse**                          | **3**              | **4**                  |
-| **8**     | **+3**                    | **Aumento no Valor de Habilidade**                       | **3**              | **4**                  |
-| **9**     | **+4**                    | **Indomável, Mestre Tático**                             | **3**              | **4**                  |
-| **10**    | **+4**                    | **Característica de Subclasse**                          | **4**              | **5**                  |
-| **11**    | **+4**                    | **Ataque Extra (x2)**                                    | **4**              | **5**                  |
-| **12**    | **+4**                    | **Aumento no Valor de Habilidade**                       | **4**              | **5**                  | 
-}}
-
+{{footnote Archivium | Barnabé Sandshifter }}
 
 \page
 
@@ -422,7 +398,6 @@ threshold of their next adventure
 
 \page
 
-
 {{monster,frame
 ## Gnoll
 *Humanoide Médio, Caótico Mau*
@@ -432,9 +407,9 @@ threshold of their next adventure
 {{vitals
 **CA**         :: 15
 **PV**         :: 22 (5d8)
-**Deslocamento**      :: 9 m
+**Movimento**  :: 9 m
 \column
-**Iniciativa** :: +3 (13)
+**Iniciativa** :: +1
 }}
 
 {{tables
@@ -454,26 +429,101 @@ threshold of their next adventure
 |Car| 6 |  --2 | --2   |
 }}
 **Vulnerabilidades** :: Fogo
-**Resistências** :: Contundente
-**Senses**       :: Percepção passiva 10
-**Languages**   :: Comum, Gnoll
-**CR**          :: 1/2 (XP 100; BP +2)
+**Resistências**     :: Contundente
+**Senses**           :: Percepção passiva 10
+**Languages**        :: Comum, Gnoll
+**CR**               :: 1/2 (XP 100; BP +2)
 }}
-
 ### Traços
-***Fúria*** Quando o gnoll reduz uma criatura a 0 pontos de vida com um ataque corpo a corpo em seu turno, o gnoll pode realizar uma ação bônus para se mover metade de sua velocidade e fazer um ataque de mordida.
+***Fúria*** Quando o gnoll reduz uma criatura a 0 pontos de vida, o gnoll pode realizar uma ação bônus para se mover metade de sua velocidade e realizar um ataque.
 :
-### Actions
+### Ações
 ***Mordida.*** *Ataque Corpo-a-Corpo:* +4, Alcance 1,5 m. *Ataque* 4 (1d4 + 2) de dano Cortante.
 :
 ***Lança.*** *Ataque Corpo-a-Corpo:* +4, Alcance 1,5 m. *Ataque* 5 (1d6 + 2) de dano perfurante.
 :
-***Arco Longo.*** *Ataque a Distância:* +4, Alcance 1,5 m. *Ataque* 5 (1d6 + 2) de dano perfurante.
-
-
+***Arco Longo.*** *Ataque a Distância:* +4, Alcance 1,5 m. *Ataque* 5 (1d6 + 2) de dano perfurante^^^^^^
 }}
 
+\column
 
+::::::::::::::::::::::::::::::::::::::::::::
+
+{{note
+##### Gnolls
+Gnolls são criaturas ferozes e predatórias, conhecidas por sua aparência que lembra uma hiena antropomórfica. Eles são altos e magros, geralmente com mais de 2 metros de altura, com corpos musculosos e ágeis, cobertos por pelagem curta que varia entre tons de marrom, cinza e bege, pontilhada por manchas escuras. Seus rostos têm o focinho longo e os dentes afiados, características que reforçam sua semelhança com hienas, e seus olhos são pequenos, brilhantes e frequentemente amarelados, transmitindo uma expressão constante de voracidade e malícia.
+
+:
+
+Gnolls tendem a viver em bandos nômades, atacando aldeias e viajantes para saquear, se alimentar e espalhar o caos. A sociedade gnoll é baseada na força e dominância, onde os mais fortes lideram e os mais fracos obedecem ou são deixados para trás. Sua cultura, se assim pode ser chamada, é brutal e primitiva, onde o respeito é conquistado pela capacidade de vencer e matar.
+}}
+
+{{pageNumber,auto}}
+{{footnote Bestiarium | Gnoll }}
+
+\page
+
+{{monster,frame
+## Harpia
+*Monstruosidade Média, Caótico Mau*
+
+{{stats
+
+{{vitals
+**CA**         :: 12
+**PV**         :: 38 (7d8 + 7)
+**Movimento**  :: 9 m {{width:3px}} (andar) {{width:47px}} 12 m (voar)
+\column
+**Iniciativa** :: +1
+}}
+
+{{tables
+|   |    |  MOD | RES  |
+|:--|:--:|:----:|:----:|
+|For| 12 |  +1  |  +1  |
+|Int| 6  | --2  | --2  |
+
+|   |   |  MOD | RES   |
+|:--|:-:|:----:|:-----:|
+|Des| 12|  +1  |  +1   |
+|Sab| 10|  +0  |  +0   |
+
+|   |   |  MOD | RES   |
+|:--|:-:|:----:|:-----:|
+|Con| 12|  +2  |  +2   |
+|Car| 14|  +2  |  +2   |
+}}
+**Vulnerabilidades** :: Perfurante
+**Resistências**     :: Psiquico
+**Senses**           :: Percepção passiva 10
+**Languages**        :: Comum
+**CR**               :: 1 (XP 200; BP +2)
+}}
+### Traços
+***Ataque Extra*** A Harpia realiza dois ataques contra uma criatura.
+:
+***Canção Sedutora*** A Harpia canta uma melodia mágica que enfeitiça humanoides e gigantes em um raio de 90 m, obrigando-os a realizar um teste de Sabedoria com CD 10.
+:
+Aqueles que falharem ficam enfeitiçados, incapacitados e começam a se mover em direção à Harpia, sem evitar ataques de oportunidade.
+:
+Eles podem fazer novos testes de resistência ao sofrer dano e ao final de cada turno. Se forem bem-sucedidos, o feitiço termina, e eles ficam imunes à canção desta Harpia por 24 horas.
+### Ações
+***Garras.*** *Ataque Corpo-a-Corpo:* +3, Alcance 1,5 m. *Ataque* 6 (2d4 + 1) de dano Cortante.
+:
+***Foice.*** *Ataque Corpo-a-Corpo:* +3, Alcance 1,5 m. *Ataque* 3 (1d4 + 1) de dano Cortante.
+}}
+
+\column
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+{{note
+##### Harpias
+Harpias são criaturas aterrorizantes e traiçoeiras que combinam o poder das aves de rapina com a astúcia de um predador inteligente. Elas possuem corpos emplumados e garras afiadas de pássaro, mas têm a cabeça e a parte superior do corpo com traços femininos, embora suas feições sejam distorcidas e selvagens. Suas asas são fortes, permitindo que se movam rapidamente pelo ar, e suas garras são mortais, adequadas para prender e despedaçar presas com facilidade.
+}}
+
+{{pageNumber,auto}}
+{{footnote Bestiarium | Harpia }}
 
 \page
 
@@ -530,47 +580,3 @@ threshold of their next adventure
 }}
 
 {{pageNumber,auto}}
-
-\page
-
-{{chapter,gradient,--color:#7c4848
-
-## Sumarium
-# Regras
-___
-}}
-
-
-
-## Ordem de Combate
-
-**Ação do Ambiente.** Se o ambiente apresentar algum elemento ativo, eles ocorrem no início da rodada, antes que os participantes realizem suas ações.
-
-:
-
-**Seu Turno.** O personagem ativo se move e utiliza suas ações disponíveis.
-
-:
-
-**Fora do Seu Turno.** Os personagens inativos planejam seu próximo turno e reagem às ações do personagem ativo.
-
-:
-
-**Fim da Rodada.** Quando todos tiverem feito seu turno, a rodada de iniciativa se repete até que o encontro se conclua.
-
-:
-
-## Iniciativa
-
-Durante o início de um encontro, cada participante rolará 1d20 + seu modificador de Destreza para decidir seu lugar na iniciativa, do maior para o menor.
-
-:
-
-**Turno compartilhado.** Personagens aliados que compartilharem iniciativas adjacentes poderão agir ao mesmo tempo, entrelaçando suas ações.
-
-:
-
-**Atrasar turno.** No início de seu turno, um personagem pode escolher atrasar, selecionando um valor no qual se manterá até o fim do combate ou decidir reduzir novamente.
-
-:
-
