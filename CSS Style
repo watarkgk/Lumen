@@ -1,0 +1,1125 @@
+/* FONT IMPORTS __________________________________________________ */
+/* _______________________________________________________________ */
+
+@import url('https://rawcdn.githack.com/Kaiburr-kath-hound/HomebreweryStyles/b8a78e9cc74d925556a6e17b32894be6eb26935a/PHB2024Style.css');
+
+/* _______________________________________________________________ */
+
+
+:root {
+  --Note_Background   : #e8d7c4;
+  --Descriptive       : #dae8ed;
+  --Light_Gray        : #888;
+  --New_Gold          : #d3b885;
+  --New_Dark_Red      : #6f1f11;
+
+	--Table_Color_White : #f2f7f9;
+	--Table_Color_Blue  : #dae8ed;
+  
+  --MonsterBackground     : #f4f0ec;
+  --Monster_Table_Yellow  : #e8e2d6;
+  --Monster_Table_Red     : #d9d0ca;
+  --Monster_Table_Green   : #d2d6ce;
+  --Monster_Table_Purple  : #cbc6c8;
+}
+
+.page {
+  /* PAGE TEXTURE */
+  background-image    : url(https://i.imgur.com/KjUQoJD.jpg);
+  
+  /* PARAGRAPHS / PLAIN TEXT */
+  p {
+    line-height       : 1.2em;
+  }
+  
+  /* FOOTER IMAGE */
+  &::after {
+    height           	: 70px;
+    background-image	: url(https://i.imgur.com/vLDUmXL.png);
+    opacity           : 0.5;
+    z-index           : -2;
+  }
+
+  /* HEADERS */
+  h1, h2, h3, h4 {
+    color             : var(--New_Dark_Red);
+  }
+  
+  h1 {
+    + p::first-letter {
+      font-size               : 61px;
+      font-family             : 'Wolpe Pegasus';
+			float                   : left;
+			padding-bottom          : 2px;
+			padding-left            : 40px;
+      padding-right           : 6px;
+			margin-top              : -1.8mm;
+			margin-bottom           : -20px;
+			margin-left             : -40px;
+			line-height             : 1em;
+      
+			color                   : rgba(0, 0, 0, 0);
+      background-image        : linear-gradient(#b89956, #d8cdb6);
+			-webkit-background-clip : text;
+			background-clip         : text;
+    }
+    
+    &::before {
+      content           : '';
+      position          : relative;
+      display           : inline-block;
+      margin            :-7.3mm;
+      top               : 38px;
+      right             : 6px;
+      width             : 55px;
+      height            : 57px;
+      background-size   : 100% 100%;
+      background-image  : url('https://i.imgur.com/6tnz3j7.png');
+      z-index           : -1;
+      opacity           : 0.7;
+    }
+    
+    /* Makes the first line after an h1 header small-caps */
+    + p::first-line {
+      font-size       : 116%;
+      font-variant    : small-caps;
+      letter-spacing  : 0.05mm;
+    }
+  }
+  
+  .chapter, .toc, &:has(.frontCover,.insideCover,.frontCredit,.fullPage,.partCover,.backCover) {
+    h1::before {
+      all   : unset;
+    }
+  }
+  
+  h2, h1 {
+    letter-spacing  : 1px;
+    font-size       : 20px;
+    + p {
+      margin-top    : 4px;
+    }
+  }
+  h3 {
+    border-bottom   : 2px solid var(--New_Gold); 
+  }
+  h5 {
+    margin-bottom       : -2px;
+    -webkit-text-stroke : 0.1px black;
+    + table {
+      margin-top        : 1px;
+    }
+  }
+  
+  /* NOTES */
+  .note {
+    background-color    : var(--Note_Background);
+    padding-top         : 6px;
+    border-image				: url(https://i.imgur.com/KtrHa62.png) 14 stretch;
+    border-image-outset	: 8px 0px;
+    border-image-width  : 20px;
+  }
+  
+  /* DESCRIPTIVE NOTES */
+  .descriptive {
+		border-width        : 14px;
+		border-image        : url('https://i.imgur.com/xIYKaUC.png') 24 fill stretch;
+		border-image-outset : 1px 14px 1px 0px;
+    margin              : -3px -7px;
+    box-shadow          : unset;
+    background-color    : unset;
+  }
+  
+  /* TABLES */
+  table {
+    tbody tr {
+      background-color    : var(--Table_Color_White);
+      &:nth-child(odd) { 
+        background-color  : var(--Table_Color_Blue); 
+      }
+      td {
+        padding   : 0.94mm;
+      }
+    }
+    thead th {
+      padding     : 0.94mm;
+    }
+    
+     + h5 {
+      margin-top  : 23px;
+    }
+  }
+  
+  /* SPELL LIST TABLES */
+  &:has(.spellList) table {
+    th:first-child,
+    td:first-child {
+      width       : 180px;
+    }
+  }
+  
+  
+  /* FOOTNOTES & PAGE NUMBERS */
+  .footnote, .pageNumber {
+    color           :  var(--New_Dark_Red);
+    font-family     : 'OPTIPegasus'; 
+    font-size       : 14px;
+    letter-spacing  : 0.1mm;
+    
+    &.light {
+      color         : var(--New_Gold);
+    }
+  }
+  .footnote {
+    font-family     : 'Wolpe Pegasus';
+    width           : fit-content;
+    text-transform  : lowercase !important;
+    font-variant    : small-caps;
+    right           : 74px;
+    bottom          : 31px;
+  }
+  .pageNumber {
+    right           : 0;
+    bottom          : 29px;
+  }
+  
+  /* GRAY HORIZONTAL SEPARATOR */
+  &:not(:has(.frontCover,.insideCover,.backCover)) hr {
+    visibility        : visible;
+    height            : 2.5mm;
+    margin            : 4mm 0 2mm;
+    background-image  : url(https://i.imgur.com/RhYXAkP.png);
+    background-size   : 100% 100%;
+    border            : none;
+    opacity           : 0.15;
+  }
+    
+  /* ARTIST CREDITS */
+  .artist {
+    position          : absolute !important;
+    bottom						: 100px;
+    width             : 400px;
+    left							: 32px;
+    transform					: rotate(-90deg);
+    transform-origin	: bottom left;
+    text-align        : left;
+    font-family			  : ScalySansSmallCapsRemake;
+    font-size				  : 13px;
+    text-transform    : lowercase;
+    color							: #999;
+  }
+  
+  /* SMALL CAPS */
+  caps {
+    font-variant    : small-caps;
+    font-size       : 116%;
+    letter-spacing  : 0.05mm;
+  }
+  small {
+    position			  : relative;
+    text-transform  : lowercase;
+    bottom				  : 10px;
+    font-size			  : 98%;
+  }
+  
+  /* HYPERLINKS */
+  a {
+    color						: inherit;
+    text-decoration	: none;
+    color           : var(--New_Dark_Red);
+    font-weight     : bold;
+  }
+  a:hover{
+    text-decoration	: underline;
+  }
+  
+  /* SPACERS - usually for after subclass captions */
+  .spacer {
+    display         : block;
+    margin-bottom   : -6px;
+  }
+
+  /* ORIGINS (BACKGROUNDS) */
+  .origin {
+    --height      : 290px;
+    
+    display       : block;
+    column-span   : all;
+    height        : var(--height);
+    min-height    : 64px;
+    width         : 817px;
+    margin-left   : -72px;
+    margin-top    : -53px;
+ 
+    img {
+      position    : relative;
+      min-width   : 817px;
+      height      : calc(var(--height) - 22px);
+      min-height  : 43px;
+      top         : -0;
+      left        : -0;
+      z-index     : -2;
+    }
+    
+    + h3 {
+      position      : relative;
+      top           : -54px;
+      margin-bottom : -35px;
+      font-size     : 23px;
+      border        : none;
+      text-shadow   : 0 0 3px  rgba(247, 247, 247, 0.5), 
+                      0 0 10px rgba(247, 247, 247, 0.8);
+      
+      &::after {
+        content           : '';
+        position          : absolute;
+        top               : -6px;
+        left              : -72px;
+        width             : 817px;
+        height            : 70px;
+        background-size   : 100%;
+        background-image  : url('https://i.imgur.com/KixYKcX.png');
+        background-repeat : no-repeat;
+        z-index           : -1;
+      }
+    }
+    
+    &:not(:first-of-type) {
+      margin-top          : 50px;
+      background-image    : url('https://i.imgur.com/ZL9AKPe.png');
+      background-size     : 100% 10px;
+      background-repeat   : no-repeat;
+    }
+  }
+  
+  /* FRONT COVER */
+  &:has(.frontCover) {
+    padding-top : 80px;
+    
+    img {
+      position  : absolute;
+    } 
+
+    .logo {
+      all                 : unset;
+      display             : inline-block;
+      width               : 60px;
+      height              : 60px;
+      margin              : -10px -4px -12px -4px;
+      background-image    : url('/assets/naturalCritLogoWhite.svg');
+      background-size     : contain;
+      background-position : center;
+      background-repeat   : no-repeat;
+      filter              : drop-shadow(0 0 0.5px white)
+                            drop-shadow(0 0   0px white)
+                            drop-shadow(0 0   0px white)
+                            drop-shadow(0 0   0px white)
+                            drop-shadow(0 0   0px white);
+    }
+
+    h3 {
+      position        : absolute;
+      top             : 43px;
+      left            : 0;
+      right           : 0;
+      font-family     : 'Elan';
+      font-size       : 17px;
+      letter-spacing  : 1px;
+      border          : none;
+      color           : red;
+    }
+
+    h2 {
+      font-family         : 'Elan';
+      font-size           : 52px;
+      font-weight         : 900;
+      -webkit-text-stroke : unset;
+      filter              : drop-shadow(0 0 4px black)
+                            drop-shadow(0 0 3px rgba(0,0,0,0.7));
+      letter-spacing      : 0;
+    }
+
+    h1 {
+      position            : absolute;
+      left                : 0;
+      right               : 0;
+      top                 : 811px;
+      -webkit-text-stroke : 2.5mm black;
+      text-shadow         : 0 6px  8px rgba(0,0,0,0.7), 
+                            0 6px 12px rgba(0,0,0,0.7);
+    }
+
+    &::before {
+      content     : '';
+      position    : absolute; /* or absolute, depending on your page structure */
+      top         : 0;
+      left        : 0;
+      width       : 100%;
+      height      : 100%;
+      background  : linear-gradient(to bottom,  rgba(5, 5, 5, 0.65) 0%, 
+                                                rgba(5, 5, 5, 0.4) 6%, 
+                                                rgba(0, 0, 0, 0) 11%);
+      z-index     : 0;
+    }
+  }
+  
+  /* INSIDE COVER */
+  &:has(.insideCover) {
+    h1 {
+      font-size   : 2.3cm;
+      width       : 110%;
+      margin-left : -5%;
+    }
+    hr {
+      margin      : 5mm auto;
+    }
+    .footnote {
+      text-align      : center;
+      left            : 0;
+      right           : 0;
+      padding         : 0 50px;
+      text-transform  : none;
+    }
+  }
+
+  /* CREDITS PAGE */
+  .frontCredit {
+    position      : relative;
+    margin-bottom : 14px;
+    padding       : 6px;
+    filter        : drop-shadow(0 6px 4px rgba(0,0,0,0.25));
+
+    img {
+      width     : 100%;
+      clip-path : polygon(
+                  0                 20px, 
+                  15px              15px, 
+                  20px              0, 
+                  calc(100% - 20px) 0, 
+                  calc(100% - 15px) 15px, 
+                  100%              20px, 
+                  100%              calc(100% - 20px), 
+                  calc(100% - 15px) calc(100% - 15px), 
+                  calc(100% - 20px) 100%, 
+                  20px              100%, 
+                  15px              calc(100% - 15px), 
+                  0                 calc(100% - 20px));
+    }
+     &::after {
+      content   : '';
+      position  : absolute;
+      top       : 0;
+      right     : 0;
+      bottom    : 0;
+      left      : 0;
+
+      border-image-slice  : 270;
+      border-image-width  : 90px;
+      border-image-outset : 5px 5px 0;
+      border-image-source : url('https://i.imgur.com/Yx3OuGx.png');
+    }
+  }
+  
+  /* TABLE OF CONTENTS */
+  &:has(.toc)::after { 
+    display : inherit; 
+  }
+
+  .toc {
+    h1 {
+      text-align  : left;
+    }
+    a {
+      font-weight : 100;
+    }
+  }
+	
+  .toc h3,
+  .toc h4 {
+    font-family			: BookInsanityRemake;
+    font-size				: 12px;
+    letter-spacing	: 0;
+  }
+
+  .toc h3 {
+    border-bottom		      : unset;
+    
+    span:first-of-type {
+      -webkit-text-stroke : 1px var(--New_Dark_Red);
+    }
+  }
+
+  .toc h4 {
+    margin-top			: 2px;
+    color						: black;
+  }
+
+  .toc ul h3 span:first-child::after {
+    border-bottom   : 0.05cm dotted #000;
+  }
+
+  .toc ul li + li h3 {
+    margin-top	    : 8px;
+  }
+
+  .toc.wide {
+    columns			    : 3;
+    column-gap      : 16px;
+  }
+  
+  /* CLASS PAGE */
+  .classSymbol img {
+    position  : absolute;
+    top       : 12px;
+    left      : 0;
+    right     : 0;
+    margin    : auto;
+    max-width : 50px;  
+  }
+  
+  &:has(.classTraits) {
+    padding-top         : 62px;
+
+    &::before {
+      content           : '';
+      position          : absolute;
+      top               : 12px;
+      left              : 7%;
+      width             : 86%;
+      height            : 550px;
+      background-size   : 100% 100%;
+      background-image  : url('https://i.imgur.com/BZza3sd.png');
+      z-index           : -1;
+    }  
+
+    .classTraits {
+      padding-bottom    : 3mm;
+      margin-bottom     : 6mm;
+
+      :first-child {
+        margin-top  : 2px;
+      }
+
+      table {
+        margin-top  : 4px;
+
+        tbody tr {
+          td {
+            padding : 0.65mm 1.5mm;
+          }
+        }
+        thead th {
+          padding   : 0.65mm 1.5mm;
+        }
+
+        th:first-child,
+        td:first-child {
+          width     : 140px;
+        }
+      }
+      + p::first-letter {
+        font-size               : 57px;
+        font-family             : 'Wolpe Pegasus';
+        float                   : left;
+        padding-bottom          : 2px;
+        padding-left            : 40px;
+        padding-right           : 6px;
+        margin-top              : -1.8mm;
+        margin-bottom           : -20px;
+        margin-left             : -40px;
+        line-height             : 1em;
+
+        color                   : rgba(0, 0, 0, 0);
+        background-image        : linear-gradient(#b89956, #d8cdb6);
+        -webkit-background-clip : text;
+        background-clip         : text;
+      }
+      + p::first-line {
+        font-variant            : small-caps;
+        font-size               : 116%;
+        letter-spacing          : 0.05mm;
+      }
+
+      border-image-slice  : 50;
+      border-image-width  : 2.95mm;
+      border-image-outset : 0 4.57mm 1.2mm 3.8mm;
+      border-image-repeat : stretch stretch;
+      border-image-source : url('https://i.imgur.com/EpSRi9J.png');
+      border-style        : solid;
+
+    }
+  }
+  
+  /* FULL PAGE ART, w/ SUBTITLE */
+  &:has(.fullPage) {
+    columns         : 1;
+    padding-bottom  : 106px;
+    display         : flex;
+    flex-direction  : column;
+    justify-content : flex-end; 
+    
+    .artist {
+      left          : 28px;
+      bottom        : 500px;
+    }
+
+    h1 {
+      font-family   : 'OPTIPegasus';
+      font-variant  : small-caps;
+      font-size     : 96px;
+      text-align    : center;
+      letter-spacing: 1px;
+      margin-bottom : 0;
+      --shadow0     : 0 0 3px #656464;
+      --shadow1     : var(--shadow0), var(--shadow0), var(--shadow0), var(--shadow0);
+      --shadow2     : var(--shadow1), var(--shadow1), var(--shadow1), var(--shadow1);
+      --shadow3     : var(--shadow2), var(--shadow2), var(--shadow2), var(--shadow2);
+      text-shadow   : var(--shadow3), var(--shadow3), var(--shadow3), 0 0 10px black;
+      color         : white;
+      z-index       : 200;
+    }
+
+    h2 {
+      text-align      : center;
+      text-shadow     : 1px 2px 3px  rgba(0,0,0,0.7);
+      color           : white;
+      font-family     : 'TT Jenevers';
+      font-size       : 22px;
+      font-weight     : 100;
+      font-style      : italic;
+      letter-spacing  : 0.4px;
+    }
+
+    .banner {
+      --color           : rgba(177, 154, 120, 0.8);
+      padding           : 10px;
+      background-image  : linear-gradient(to right, 
+                          rgba(0,0,0,0), 
+                          var(--color),
+                          var(--color), 
+                          rgba(0,0,0,0));
+      z-index           : 200;
+    }
+    
+    .caption {
+      position    : absolute;
+      left        : 68px;
+      top         : 100px;
+      padding     : 3px 5px;
+      font-family : 'WalterTurncoat';
+      font-size   : 12px;
+      width       : fit-content;
+      filter      : drop-shadow(0 0 10px black) 
+                    drop-shadow(0 0 20px black) 
+                    drop-shadow(0 0 10px rgba(0,0,0,0.5));
+      color       : white;
+      
+      p {
+        text-indent : 0;
+      }
+
+      &.right {
+        left  : unset;
+        right : 68px;
+      }
+    }
+    
+    .fullPage {
+      img {
+        position    : absolute;
+        left        : 50px;
+        top         : 30px;
+        min-height  : 974px;
+        min-width   : 716px;
+        z-index     : -4;
+        
+
+      }
+    }
+    &::before {
+      content   : '';
+      position  : absolute;
+      bottom    : 0;
+      left      : 0;
+      width     : 100%;
+      height    : 100%;
+      background-image : url('https://i.imgur.com/TTwKQ0H.png');
+      background-size : 100% 100%;
+      z-index   : -3;
+    }
+  }
+  
+  /* HALF PAGE ART */
+  &:has(.borderImage) {
+    .imageWrapper {    
+    --maskWidth   : 332px;
+    --maskHeight  : 940px;
+    --maskLeft    : 41px;
+    --maskTop     : 29px;
+    --offsetX     : calc(var(--maskLeft) / 2);
+    --offsetY     : calc(var( --maskTop) / 2);
+    
+    &::before {
+      content             : '';
+      position            : absolute;
+      top                 : var(--maskTop);
+      left                : var(--maskLeft);
+      width               : max(calc(var(--maskWidth) + 7.6mm), 48mm);
+      height              : max(calc(var(--maskHeight) + 7.6mm), 48mm);
+      border-image-slice  : 270;
+      border-image-width  : 24mm;
+      border-image-source : url('https://i.imgur.com/10FwDJM.png');
+      z-index             : 1;
+    }
+
+    &.leftSide {
+      --maskHeight  : 1048px;
+      --maskLeft    : 44px;
+    }
+
+    &.rightSide {
+      --maskHeight  : 1048px;
+      --maskLeft    : 417px;
+    }
+
+    .borderImage {
+      position      : absolute;
+      top           : calc(var(--offsetY) + 3.8mm);
+      left          : calc(var(--offsetX) + 3.8mm);
+      clip-path     : polygon(
+        var(--offsetX)                                   calc(var(--offsetY) + 20px), 
+        calc(var(--offsetX) + 15px)                      calc(var(--offsetY) + 15px), 
+        calc(var(--offsetX) + 20px)                      var(--offsetY), 
+        calc(var(--offsetX) + var(--maskWidth) - 20px)   var(--offsetY), 
+        calc(var(--offsetX) + var(--maskWidth) - 15px)   calc(var(--offsetY) + 15px), 
+        calc(var(--offsetX) + var(--maskWidth))          calc(var(--offsetY) + 20px), 
+        calc(var(--offsetX) + var(--maskWidth))          calc(var(--offsetY) + var(--maskHeight) - 20px), 
+        calc(var(--offsetX) + var(--maskWidth) - 15px)   calc(var(--offsetY) + var(--maskHeight) - 15px), 
+        calc(var(--offsetX) + var(--maskWidth) - 20px)   calc(var(--offsetY) + var(--maskHeight)), 
+        calc(var(--offsetX) + 20px)                      calc(var(--offsetY) + var(--maskHeight)), 
+        calc(var(--offsetX) + 15px)                      calc(var(--offsetY) + var(--maskHeight) - 15px), 
+        var(--offsetX)                                   calc(var(--offsetY) + var(--maskHeight) - 20px)
+      );
+
+      img {
+        position  : absolute;
+        width     : var(--maskWidth);
+        height    : max(var(--maskHeight), auto);
+        transform : translateY(var(--offsetY))
+                    translateX(var(--offsetX));
+      }
+    }
+    
+    .caption {
+      position    : absolute;
+      left        : calc(var(--offsetX) + 50px);
+      top         : calc(var(--offsetY) + var(--maskHeight) * 4/5);
+      font-family : 'WalterTurncoat';
+      font-size   : 12px;
+      width       : fit-content;
+      max-width   : 314px;
+      filter      : drop-shadow(0 0 10px black) 
+                    drop-shadow(0 0 15px black) 
+                    drop-shadow(0 0 10px rgba(0,0,0,0.5));
+      color       : white;
+
+      p {
+        text-indent : 0;
+      }
+
+      &.rightCaption {
+        left    : unset;
+        right   : calc(794px - var(--maskWidth) - var(--offsetX));
+      }
+    }
+  }
+}
+
+  
+  /* CHAPTER HEADERS */
+  .chapter {
+    --color         : #bc9e5c;
+    column-span	    : all;
+    display			    : block;
+    text-align      : center;
+    margin-bottom   : 14px;
+    filter          : drop-shadow(0 0 5px white) drop-shadow(0 0 3px white);
+    
+    h1 {
+      font-family             : 'Wolpe Pegasus';
+      font-variant            : small-caps;
+      color                   : rgba(0,0,0,0);
+			background-image        : linear-gradient(#610500 25%, #be897e);
+      background-size         : 100% 1em;
+			-webkit-background-clip : text;
+      letter-spacing          : 2px;
+      font-size               : 54px;
+      font-weight             : normal;
+      
+      + h2 {
+        margin-top  : -2mm;
+      }
+    }
+    
+    hr {
+      height            : 25px;
+      left              : 0;
+      right             : 0;
+      margin-top        : 0;
+      background-size   : 100% 100%;
+      background-image  : url('https://i.imgur.com/w1Yiycy.png');
+      opacity           : 1;
+    }
+    &.gradient hr::after {
+      content             : '';
+      position            : absolute;
+      width               : 90%;
+      height              : 100%;
+      left                : 0;
+      right               : 0;
+      margin              : auto;
+      bottom              : 7.8mm;
+      -webkit-mask-image  : url('https://i.imgur.com/X4dbBP0.png');
+      -webkit-mask-size   : 100% 100%;
+      background-color    : hsl(from var(--color) 
+                 /* hue */  h
+          /* saturation */  max(calc(s / 2), 30)
+           /* lightness */  clamp(30, calc(l * 0.75), 70));
+      opacity             : 20%;
+      z-index             : -1;
+    }
+    
+    h2 {
+      margin-top          : -20px;
+      font-family         : 'Wolpe Pegasus';
+      font-size           : 28px;
+      font-variant        : small-caps;
+      font-weight         : 100;
+      letter-spacing      : 2px;
+      display             : inline-flex;
+      align-items         : center;
+      color               : hsl(from var(--color) 
+                   /* hue */  h 
+            /* saturation */  s
+             /* lightness */  clamp(40, l, 60));
+      
+      &::before, &::after {
+        content           : '';
+        display           : inline-block;
+        width             : 118px;
+        height            : 38px;
+        background-size   : 100% 100%;
+      }
+
+      &::before {
+        background-image  : url('https://i.imgur.com/BRYhmdx.png');
+        margin-right      : 4px;
+      }
+      &::after {
+        background-image  : url('https://i.imgur.com/OKvFuZW.png');
+        margin-left       : 4px;
+      }
+    }
+    
+    + p::first-letter {
+      font-size               : 61px;
+      font-family             : 'Wolpe Pegasus';
+			float                   : left;
+			padding-bottom          : 2px;
+			padding-left            : 40px;
+      padding-right           : 6px;
+			margin-top              : -1.8mm;
+			margin-bottom           : -20px;
+			margin-left             : -40px;
+			line-height             : 1em;
+      
+			color                   : rgba(0, 0, 0, 0);
+      background-image        : linear-gradient(#b89956, #d8cdb6);
+			-webkit-background-clip : text;
+			background-clip         : text;
+    }
+    
+    + p::first-letter {
+      font-size               : 61px;
+      font-family             : 'Wolpe Pegasus';
+			float                   : left;
+			padding-bottom          : 2px;
+			padding-left            : 40px;
+      padding-right           : 6px;
+			margin-top              : -1.8mm;
+			margin-bottom           : -20px;
+			margin-left             : -40px;
+			line-height             : 1em;
+      
+			color                   : rgba(0, 0, 0, 0);
+      background-image        : linear-gradient(#b89956, #d8cdb6);
+			-webkit-background-clip : text;
+			background-clip         : text;
+    }
+    
+    /* Yellow Symbol for Drop Cap */
+    &::after {
+      content           : '';
+      position          : absolute;
+      bottom            : -62px;
+      left              : -32px;
+      width             : 55px;
+      height            : 57px;
+      background-size   : 100% 100%;
+      background-image  : url('https://i.imgur.com/6tnz3j7.png');
+      z-index           : -1;
+      opacity           : 0.7;
+    }
+    
+    /* Makes the first line after an h1 header small-caps */
+    + p::first-line {
+      font-size       : 116%;
+      font-variant    : small-caps;
+      letter-spacing  : 0.05mm;
+    }  
+    
+    /* Removes all the drop cap formatting if you add "noCap" to the class */
+    &.noCap + p::first-letter, &.noCap + p::first-line, &.noCap::after {
+        all : unset;
+    }
+  }
+  
+  /* MONSTER STATBLOCKS */
+  /* ________________________________________________________ */
+  /*                                                          */
+  /* !! Below is u/Gambatte's code, only slightly modified !! */
+  /* ________________________________________________________ */
+  
+  .monster {
+    &.frame {
+      padding           : 10px 8px;
+      background-image  : none;
+      background-color  : var(--MonsterBackground);
+      border-image      : none;
+      border            : 3.5px double var(--Light_Gray);
+      border-radius     : 10px;
+      box-shadow        : 2px 2px 5px rgba(136, 136, 136, 0.5);
+      margin            : 0 -8px;
+      width             : 105%;
+    }
+    
+    &.wide {
+      h2 + p {
+        column-span : all;
+      }
+    }
+
+    h2 {
+      column-span         : all;    
+      margin-bottom       : 3px;
+      font-family         : ScalySansSmallCapsRemake;
+      font-size           : 5.1mm;
+      letter-spacing      : -0.15mm;
+      border-bottom       : 1.5px solid var(--New_Dark_Red);
+      color               : var(--New_Dark_Red);
+      -webkit-text-stroke : 0.1px var(--New_Dark_Red);
+      
+      + p {
+        color       : var(--Light_Gray);
+        font-size   : inherit;
+      }
+    }
+    
+    h3:first-of-type {
+      margin-top  : 14px;
+    }
+    
+    .block {
+      margin-top  : 0;
+    }
+    
+    .stats {
+      color       : var(--HB_Color_HeaderText);
+      margin-top  : 5px;
+
+      .vitals {
+        columns   : 2;
+      }
+      
+      .tables {
+        columns     : 3;
+        column-gap  : 5px;
+        margin-top  : -10px;
+        margin-bottom : 6px;
+        
+        table {
+          border-collapse : separate;
+          border-spacing  : 0 1.5px;
+          
+          th {
+            color         : var(--Light_Gray);
+            font-weight   : normal;
+            font-size     : 8px;
+            position      : relative;
+            top           : 6px;
+          }
+          
+          tr:nth-of-type(odd) {
+            td {
+              background-color  : var(--Monster_Table_Red);
+              padding-top       : 2px;
+            }
+            td:nth-of-type(-n+2) {
+              background-color  : var(--Monster_Table_Yellow);
+              font-weight       : bold;
+              font-variant      : small-caps;
+              padding-left      : 4px;
+            }
+          }
+          
+          tr:nth-of-type(even) {
+            td {
+              background-color  : var(--Monster_Table_Purple);
+              padding-top       : 2px;
+            }
+            td:nth-of-type(-n+2) {
+              background-color  : var(--Monster_Table_Green);
+              font-weight       : bold;
+              font-variant      : small-caps;
+              padding-left      : 4px;
+            }
+          }
+        }
+      }
+    }
+  }
+  /* _______________ End of u/Gambatte's code _______________ */
+  /* ________________________________________________________ */
+ 
+ /* BACK COVER */
+  &:has(.backCover) {
+    padding-bottom  : 50px;
+    display         : flex;
+    flex-direction  : column;
+    justify-content : flex-end;
+    
+    .backCover {
+      width               : 100%;
+      background-image    : url('https://i.imgur.com/2meGzjO.png');
+      background-size     : contain;
+      background-position : 0 max(var(--height), 70px);
+      padding             : 20px;
+      width               : 100%;
+      color               : white;
+    }
+
+    h1 {
+      left                : 0;
+      right               : 0;
+      width               : 700px;
+      margin              : 70px auto;
+      font-weight         : 100;
+      font-size           : 1.65cm;
+      -webkit-text-stroke : 1.5mm black;
+      paint-order         : stroke;
+      color               : white;
+    }
+
+    img {
+      height    : calc(var(--height) + 110px);
+      min-width : 100%;
+      width     : auto;
+      position  : absolute;
+      left      : 0;
+      top       : 0;
+    }
+
+    p {
+      font-family   : 'Copper Penny DTP';
+      font-size     : 2.7mm;
+      line-height   : 4.4mm;
+      width         : 464px;
+
+      + p {
+        text-indent : 0;
+        padding-top : 16px;
+      }
+    }
+
+    caps {
+      -webkit-text-stroke : 0.1mm white;
+    }
+    
+    .banner {
+      --color       : #555557;
+      padding       : 3mm 0.16cm;
+      padding-left  : 13mm;
+      margin-top    : 8mm;
+      margin-left   : -13mm;
+      background    : linear-gradient(to right, var(--color) 0%, var(--color) 90%, rgba(0, 0, 0, 0) 100%);
+      width         : 490px;
+      p {
+        width       : 390px;
+      }
+    }
+    
+    .logo {
+      bottom    : max(calc((1156px - var(--height))/2), 2.5cm);
+      left      : unset;
+      right     : 0mm;
+      
+      img {
+			  height    : 2.3cm;
+        min-width : unset;
+        width     : 2.3cm;
+      }
+
+      hr {
+        margin-top    : 6px;
+        + * {
+          margin-top  : 20px;
+        }
+      }
+      
+      a {
+        color         : #68686a;
+      }
+
+      p {
+        font-family   : 'Copper Penny DTP';
+        font-variant  : small-caps;
+        line-height   : 1em;
+        
+        color         : #d69d00;
+        
+        /* The following lines of code restore the "golden" texture for text; delete this line of code (line 1045) as well as line 1050
+        color                   : rgba(0,0,0);
+			  background-image        : linear-gradient(-45deg, #c9a02c, #f9bf24, #815003, #dfa311);
+        -webkit-background-clip : text;
+        background-clip         : text;
+        */
+      }
+      
+      p:nth-letter(2) { 
+        color : red; 
+      }
+    }
+  }
+  
+  /* EVEN-NUMBERED PAGE DIFFERENCES */
+  &:nth-of-type(even) {
+    .footnote {
+      left  : 74px;
+    }
+
+    .pageNumber {
+      left  : 0;
+    }
+
+    .artist {
+      left						  : 784px;
+    }
+    &:has(.fullPage) {
+      .artist {
+        left            : 803px;
+      }
+    }
+  }
+}
+
+
