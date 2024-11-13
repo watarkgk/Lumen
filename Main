@@ -1,29 +1,30 @@
+
 {{frontCover}}
 
-### O CONTO DA LUZ E DAS TREVAS
+### O CONTO DA LUZ E DAS TREVAS <!-- CAPA -->
 
 ## HOME {{logo}} BREWERY
 
 # LUMEN
 
-![](https://i.imgur.com/piyO0X5.jpg) {bottom:-7.4%,left:-416px,height:115%}
+![background image](https://i.imgur.com/piyO0X5.jpg) {bottom:-7.4%,left:-416px,height:115%}
 
 \page
 
 {{insideCover}}
 
-# LUMEN
+# LUMEN <!-- CONTRA-CAPA -->
 ___
 {width:10cm}
 
-![background image](https://i.imgur.com/3xpBuEt.png){position:absolute,top:20%,left:16%,width:68%}
+![background image](https://i.imgur.com/3xpBuEt.png) {position:absolute,top:20%,left:16%,width:68%}
 
-{{watercolor6,top:0px,left:830px,width:300px,transform:rotate(-50deg),background-color:#aaa4bc,opacity:70%}}
+ {{watercolor6,top:0px,left:830px,width:300px,transform:rotate(-50deg),background-color:#aaa4bc,opacity:70%}}
 
-{{watercolor2,top:130px,left:-180px,width:390px,transform:rotate(30deg),background-color:#dbc899,opacity:70%}}
+ {{watercolor2,top:130px,left:-180px,width:390px,transform:rotate(30deg),background-color:#dbc899,opacity:70%}}
 
 {{artist,left:38px
-[Daarken](https://www.daarken.com/)
+  [Daarken](https://www.daarken.com/)
 }}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
@@ -31,108 +32,117 @@ ___
 \page
 
 {{toc,wide
-# Indice
+# INDICE
 
 - ### [{{ Archivium}}{{ 4}}](#p4)
-  - #### [{{ Barnabé Sandshifter}}{{ 5}}](#p5)
+
+  - ### [{{ Protagonistas}}{{ 4}}](#p4)
   
-- ### [{{ Bestiarium}}{{ 8}}](#p6)
-  - #### [{{ Gnoll}}{{ 9}}](#p9)
-  - #### [{{ Harpia}}{{ 10}}](#p10)
+      - #### [{{ Barnabé Sandshifter      }}{{ 5   }}](#p5 )
+      - #### [{{ Halts                    }}{{ 8   }}](#p8 )
+      - #### [{{ Ludge Anarchy            }}{{ 10  }}](#p10)
+      - #### [{{ Pablo Veggeti            }}{{ 12  }}](#p12)
+      - #### [{{ Rosenkreutz Kratzenstein }}{{ 14  }}](#p14)
+      - #### [{{ Zora                     }}{{ 16  }}](#p16)
+      
+- ### [{{ Bestiarium }}{{ 8 }}](#p6)
+  
+  - #### [{{ Gnoll }}{{ 9 }}](#p9)
+  - #### [{{ Harpia }}{{ 10 }}](#p10)
 
-- ### [{{ Grimorium}}{{ 11}}](#p11)
+- ### [{{ Grimorium }}{{ 11 }}](#p11)
 
-- ### [{{ Sumarium}}{{ 12}}](#p12)
-
+- ### [{{ Sumarium }}{{ 12 }}](#p12)
 }}
 
 \page
 
 {{fullPage
-
-![image](https://i.imgur.com/hI6H4dn.jpg) {width:950px,left:-45px;}
-
+  ![background image](https://i.imgur.com/hI6H4dn.jpg) {width:950px,left:-45px;}
 }}
 
 {{caption,right
-World-traveling explorers Hank, Bobby, 
-
-Sheila, Diana, and Presto stand on the 
-
-threshold of their next adventure
+  World-traveling explorers Hank, Bobby, 
+  
+  Sheila, Diana, and Presto stand on the 
+  
+  threshold of their next adventure
 }}
 
-# Archivium
+# Archivium <!-- PRIMEIRO CAPITULO -->
 
 {{banner,--color:"rgba(177, 154, 120, 0.8)"
-## Mergulhe nos grande arquivos...
+  ## Mergulhe nos grandes arquivos...
 }}
 
 {{artist
-[Dmitri Burmak](https://burmak.ru/)
+  [Dmitri Burmak](https://burmak.ru/)
 }}
 
 {{pageNumber,auto}}
 
 \page
 
-<div style="text-align: justify;"> 
-<div style="text-align: center;">
+<!-- PARTE DO BARNABÉ SANDSHIFTER -->
 
-## BARNABÉ "SANDSHIFTER"</div>
+<div style="text-align: justify;">
 
-  <div style="margin-top: 5px;"></div>
+  <div style="text-align: center;">
 
-Barnabé “Sandshifter” é um ex-caçador de recompensas pouco conhecido, que atuou aos arredores da vila de São Tomé, localizado perto da fronteiro com o deserto de Solara. 
-
-<div style="text-align: center;">
-
-## APARÊNCIA</div>
+  ## BARNABÉ SANDSHIFTER</div>
 
   <div style="margin-top: 5px;"></div>
 
-Pelagem preta, com uma parte branca debaixo da boca parecido com uma barba,  olhos marrons. Usa um chapéu de cowboy, camisa branca com uma jaqueta de couro por cima. Usa uma bandoleira com balas de rifle por cima da jaqueta de couro, mas é apenas decorativa. Usa uma calça de couro, e não usa sapatos.
+  Barnabé Sandshifter é um ex-caçador de recompensas pouco conhecido, que atuou aos arredores da vila de São Tomé, localizado perto da fronteiro com o deserto de Solara.
 
-<div style="text-align: center;">
+  <div style="text-align: center;">
 
-## PERSONALIDADE</div>
+  ## APARÊNCIA</div>
 
   <div style="margin-top: 5px;"></div>
 
-**Barnabé.** Individualista, Meticuloso e Neurótico, porém Justo. Trata todos com respeito, desde que o respeitem de volta. Curte uma cervejinha. Perfeccionista do tipo chato, dificilmente improvisa algo. Pra ele, tudo precisa ser planejado. 
+  Pelagem preta, com uma parte branca embaixo da boca, parecendo uma barba, e olhos marrons. Usa um chapéu de cowboy, camisa branca com uma jaqueta de couro por cima. Carrega uma bandoleira com balas de rifle sobre a jaqueta de couro, mas é apenas decorativa. Veste calça de couro e não usa sapatos.
+
+  <div style="text-align: center;">
+
+  ## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  **Barnabé.** Individualista, meticuloso e neurótico, porém justo. Trata todos com respeito, desde que o respeitem de volta. Gosta de uma cervejinha. Perfeccionista do tipo chato, dificilmente improvisa. Para ele, tudo precisa ser planejado.
 
 :
 
-**Wukong.** Teimoso, egoísta e espontâneo. Se considera o centro do mundo, o protagonista. Acredita que tudo que acontece ao seu redor é apenas um entretenimento passageiro, não leva nada a sério. Mestre do improviso, dificilmente pensa antes de agir.
+  **Wukong.** Teimoso, egoísta e espontâneo. Considera-se o centro do mundo, o protagonista. Acredita que tudo o que acontece ao seu redor é apenas um entretenimento passageiro e não leva nada a sério. Mestre do improviso, raramente pensa antes de agir.
 
-<div style="text-align: center;">
+  <div style="text-align: center;">
 
-## HABILIDADES</div>
+  ## HABILIDADES</div>
 
   <div style="margin-top: 5px;"></div>
 
-Pouco experiente, mas proficiente utilizando armas de fogo e algumas armas brancas, principalmente bastões, devido a sua outra alma. Apesar de sua personalidade meticulosa, ele adota um estilo de combate explosivo, dependente de tomadas de decisão rápidas e acertos consecutivos, herdado de Wukong.
+  Pouco experiente, mas proficiente no uso de armas de fogo e algumas armas brancas, especialmente bastões, devido à influência de sua outra alma. Apesar de sua personalidade meticulosa, ele adota um estilo de combate explosivo, dependente de decisões rápidas e acertos consecutivos, herdado de Wukong.
 
 <div style="text-align: center;">
 
-## TRIVIA</div>
+  ## TRIVIA</div>
 
   <div style="margin-top: 5px;"></div>
 
 {{descriptive
-• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
 
 :
 
-• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
 
 :
 
-• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
 
 :
 
-• **Barnabé Gay.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
 }}
 
 </div>
@@ -146,11 +156,12 @@ Pouco experiente, mas proficiente utilizando armas de fogo e algumas armas branc
 ![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
 
 <div style="text-align: center;">
+
   #### BARNABÉ SANDSHIFTER</div>
 
   <div style="margin-top: 10px;"></div>
 
->{{width:30px}} **Alcunha** {{width:32px}} O pistoleiro de São Tomé
+>{{width:30px}} **Alcunha**          {{width:32px}} O pistoleiro de São Tomé
 
   <div style="margin-top: -10px;"></div>
 
@@ -158,113 +169,118 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Pronúncia** {{width:20px}} Bar-na-BÉ SAND-shif-ter
+>{{width:30px}} **Pronúncia**        {{width:20px}} Bar-na-BÉ SAND-shif-terz
 
   <div style="margin-top: -10px;"></div>
 
 ___
 
 <div style="text-align: center;">
+
   #### CARACTERÍSTICAS</div>
 
   <div style="margin-top: 10px;"></div>
 
->{{width:30px}} **Espécie** {{width:37px}} Simian
+>{{width:30px}} **Espécie**          {{width:37px}} Simian
 
-<div style="margin-top: -10px;"></div>
-
-___
-
-<div style="margin-top: -10px;"></div>
-
->{{width:30px}} **Nascimento** {{width:14px}} 668 {{width:4px}}  (Calendário Simian) {{width:119px}} 1759 (Calendário Humano)
-
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
 ___
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Idade** {{width:50px}} 20
+>{{width:30px}} **Nascimento**       {{width:14px}}  668  {{width:4px}} (Calendário Simian) 
+                                     {{width:119px}} 1759               (Calendário Humano)
 
-<div style="margin-top: -10px;"></div>
-
-___
-
-<div style="margin-top: -10px;"></div>
-
->{{width:30px}} **Gênero** {{width:40px}} Masculino
-
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
 ___
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Altura** {{width:47px}} 1,70
+>{{width:30px}} **Idade**            {{width:50px}} 20
 
-<div style="margin-top: -10px;"></div>
-
-___
-
-<div style="margin-top: -10px;"></div>
-
->{{width:30px}} **Peso** {{width:55px}} 65kg
-
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
 ___
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Cabelo** {{width:44px}} Preto
+>{{width:30px}} **Gênero**           {{width:40px}} Masculino
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
 ___
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Olhos** {{width:50px}} Marrons 
+>{{width:30px}} **Altura**           {{width:47px}} 1,70
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso**             {{width:55px}} 65kg
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo**           {{width:44px}} Preto
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos**            {{width:50px}} Marrons 
+
+  <div style="margin-top: -10px;"></div>
 
 ___
 
 <div style="text-align: center;">
-  #### CONDIÇÃO
-</div>
 
-<div style="margin-top: 10px;"></div>
+  #### CONDIÇÃO</div>
 
-{{width:30px}} **Origem** {{width:44px}} Deserto de Solara
+  <div style="margin-top: 10px;"></div>
 
-<div style="margin-top: -10px;"></div>
+>{{width:30px}} **Origem**           {{width:44px}} Deserto de Solara
 
-___
-
-<div style="margin-top: -10px;"></div>
-
-{{width:30px}} **Afiliações** {{width:32px}} Phillip “Carrasco”
-{{width:124px}} A aldeia do Deus-Rei Macaco {{width:124px}} Guilda de Mercenários de São {{width:124px}} Tomé
-
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
 ___
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
-{{width:30px}} **Ocupações** {{width:26px}} Pistoleiro
+{{width:30px}} **Afiliações**        {{width:32px}}  Phillip “Carrasco”
+                                     {{width:124px}} A aldeia do Deus-Rei Macaco 
+                                     {{width:124px}} Guilda de Mercenários de São
+                                     {{width:124px}} Tomé
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
 ___
 
-<div style="margin-top: -10px;"></div>
+  <div style="margin-top: -10px;"></div>
 
-{{width:30px}} **Familiares** {{width:26px}} Riverwalker (Mãe) {{width:126px}} Blazekeeper (Pai)
+{{width:30px}} **Ocupações**         {{width:26px}} Pistoleiro
 
-<div style="margin-top: 10px;"></div>
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares**        {{width:27px}}  Riverwalker (Mãe) 
+                                     {{width:124px}} Blazekeeper (Pai)
+
+  <div style="margin-top: 10px;"></div>
 
 }}
 
@@ -273,45 +289,44 @@ ___
 
 \page
 
+<!-- PARTE DO BARNABÉ SANDSHIFTER -->
+
 --->
 {{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
 
-{{borderImage ![dance background](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
 
 {{caption,rightCaption
-DESCRIÇÃO <BR> DA IMAGEM
+  DESCRIÇÃO <BR> DA IMAGEM
 }}
 
 }}
 
-![dance overlay](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
 
 {{artist
-[Katerina Ladon](https://www.artstation.com/katerina_ladon)
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
 }}
 
 \column
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
 
-## HISTÓRIA
+  <div style="text-align: center;">
 
-</div>
+  ## HISTÓRIA</div>
 
 <div style="margin-top: 5px;"></div>
 
-
-<div style="text-align: justify;">
-
-"Barnabé" Sandshifter nasceu em uma aldeia extremamente remota situada num oásis no grande deserto de Solara, onde o povo Simian vivia em conjunto com Elementais. Devido a presença de elementais no dia a dia, todos de sua raça tem uma extrema afinidade com magia, com a exceção de Sandshifter. Em sua cultura, quando uma criança nascia, não recebia nome. O mesmo só era dado após a mesma realizar um grande feito, reconhecido pelo líder da aldeia.
+  Barnabé Sandshifter nasceu em uma aldeia extremamente remota situada num oásis no grande deserto de Solara, onde o povo Simian vivia em conjunto com Elementais. Devido a presença de elementais no dia a dia, todos de sua raça tem uma extrema afinidade com magia, com a exceção de Sandshifter. Em sua cultura, quando uma criança nascia, não recebia nome. O mesmo só era dado após a mesma realizar um grande feito, reconhecido pelo líder da aldeia.
 
 :
 
-Sua aldeia, nomeada de Grande Aldeia do Deus Rei Macaco cultuava o Grande Macaco, que diziam ser o antepassado de todos os Simians e Humanos. Entre suas práticas religiosas, a que mais se destaca é a peregrinação obrigatória que toda criança simian deve participar, pois dizem que assim os pequenos despertam o seu potencial mágico. Nascido da grande Riverwalker e do pouco conhecido Blazekeeper, Sandshifter recebeu seu nome aos 12 anos após participar de uma peregrinação pelo grande deserto de Solara, em que foi atacado por uma matilha de Lobos-do-deserto junto de outras crianças, mas foi capaz de espantá-los sem nenhuma arma. As crianças após relatarem o ocorrido, descreveram como se ele estivesse surfando sobre as areias do deserto, desviando das garras dos lobos e os atacando em pontos que os incomodava. Após isso, o líder de sua tribo o nomeou Sandshifter.
+  Sua aldeia, nomeada de Grande Aldeia do Deus Rei Macaco cultuava o Grande Macaco, que diziam ser o antepassado de todos os Simians e Humanos. Entre suas práticas religiosas, a que mais se destaca é a peregrinação obrigatória que toda criança simian deve participar, pois dizem que assim os pequenos despertam o seu potencial mágico. Nascido da grande Riverwalker e do pouco conhecido Blazekeeper, Sandshifter recebeu seu nome aos 12 anos após participar de uma peregrinação pelo grande deserto de Solara, em que foi atacado por uma matilha de Lobos-do-deserto junto de outras crianças, mas foi capaz de espantá-los sem nenhuma arma. As crianças após relatarem o ocorrido, descreveram como se ele estivesse surfando sobre as areias do deserto, desviando das garras dos lobos e os atacando em pontos que os incomodava. Após isso, o líder de sua tribo o nomeou Sandshifter.
 
 :
 
-Mesmo após finalmente ganhar um nome, quando voltou da peregrinação, Sandshifter não havia despertado magicamente. Muito pelo contrário, após ser examinado por um dos 12 anciões da aldeia, foi descoberto que Sandshifter não tinha potencial nenhum para magia, e que ele provavelmente nunca despertaria. Mesmo sendo uma comunidade extremamente unida, rumores ainda corriam por aí. Alguns fiéis começaram a comparar Sandshifter com seu Deus, dizendo que o mesmo também não tinha afinidade a magia, e alguns começaram a acreditar que o mesmo poderia ser uma reencarnação do Deus Rei Macaco. Após um tempo, foi decidido que um ritual seria feito para tentarem despertar seu potencial mágico, para desprovar as teorias de alguns fiéis faanáticos.
+  Mesmo após finalmente ganhar um nome, quando voltou da peregrinação, Sandshifter não havia despertado magicamente. Muito pelo contrário, após ser examinado por um dos 12 anciões da aldeia, foi descoberto que Sandshifter não tinha potencial nenhum para magia, e que ele provavelmente nunca despertaria. Mesmo sendo uma comunidade extremamente unida, rumores ainda corriam por aí. Alguns fiéis começaram a comparar Sandshifter com seu Deus, dizendo que o mesmo também não tinha afinidade a magia, e alguns começaram a acreditar que o mesmo poderia ser uma reencarnação do Deus Rei Macaco. Após um tempo, foi decidido que um ritual seria feito para tentarem despertar seu potencial mágico, para desprovar as teorias de alguns fiéis faanáticos.
 Não querendo saber de nada disso, Sandshifter pega suas coisas e foge da aldeia. O mesmo já tinha o deserto na palma de sua mão, já sabia como enfrentar as criaturas que o rondavam, e já sabia como sobreviver nas areias escaldantes do mesmo. Ele sabia que era somente questão de tempo até ele alcançar alguma vila ou cidade.
 
 </div>
@@ -321,10 +336,12 @@ Não querendo saber de nada disso, Sandshifter pega suas coisas e foge da aldeia
 
 \page
 
+<!-- PARTE DO BARNABÉ SANDSHIFTER -->
+
 --->
 {{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
 
-{{borderImage ![dance background](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+{{borderImage ![background background](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
 
 {{caption,rightCaption
 DESCRIÇÃO <BR> DA IMAGEM
@@ -332,41 +349,1293 @@ DESCRIÇÃO <BR> DA IMAGEM
 
 }}
 
-![dance overlay](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
 
 {{artist
-[Katerina Ladon](https://www.artstation.com/katerina_ladon)
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
 }}
 
 \column
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
 
-## HISTÓRIA
+  <div style="text-align: center;">
 
-</div>
+  ## HISTÓRIA</div>
 
 <div style="margin-top: 5px;"></div>
 
-
-<div style="text-align: justify;">
-
-Sua viagem levou 43 dias, até chegar a uma pequena vila onde conheceu quem atualmente ele considera seu mentor. Phillip "Carrasco". O mesmo lhe deu o nome Barnabé, o ensinou a falar a língua comum, como manusear armas de fogo, e também como exercer o trabalho de caçador de recompensas. Após isso, Barnabé começa a sofrer de sua condição curiosa, em que de repente, por períodos indeterminados de tempo, ele perdia o controle de seu corpo, como se entrasse num sono profundo.
+  Sua viagem levou 43 dias, até chegar a uma pequena vila onde conheceu quem atualmente ele considera seu mentor. Phillip "Carrasco". O mesmo lhe deu o nome Barnabé, o ensinou a falar a língua comum, como manusear armas de fogo, e também como exercer o trabalho de caçador de recompensas. Após isso, Barnabé começa a sofrer de sua condição curiosa, em que de repente, por períodos indeterminados de tempo, ele perdia o controle de seu corpo, como se entrasse num sono profundo.
 
 :
 
-Phillip nota isso após uma comissão dar errado quando a entidade dentro de Barnabé se liberou em um momento indesejado, a mesma sendo o completo oposto de Barnabé, brincalhona, extremamente confiante,sem medo algum. Buscando saber mais sobre a condição de seu amigo, Phillip vai atrás de Mestres Espirituais, pessoas que tem um grande conhecimento sobre magia, espíritos, e criaturas além do plano inferior. 
+  Phillip nota isso após uma comissão dar errado quando a entidade dentro de Barnabé se liberou em um momento indesejado, a mesma sendo o completo oposto de Barnabé, brincalhona, extremamente confiante,sem medo algum. Buscando saber mais sobre a condição de seu amigo, Phillip vai atrás de Mestres Espirituais, pessoas que tem um grande conhecimento sobre magia, espíritos, e criaturas além do plano inferior. 
 Phillip, junto de Barnabé, vão ao encontro do Mestre Akupara, no local de seus estudos, para tentar descobrir o que há de errado com seu corpo. Barnabé já tinha ideias do que poderia ser, afinal o mesmo se lembra de toda a comoção que aconteceu em sua vila após voltar de sua peregrinação. Os três, então, tentam entrar em contato com a outra alma habitando o corpo de Barnabé. Para isso, o mestre fez um poderoso chá usando Flores de Lótus Pretas, e deu para Barnabé tomar. Brevemente após isso, Barnabé cai ao chão, inconsciente, e logo em seguida se levante, como outra pessoa. A outra alma habitando o corpo então começa a pular de um lado para o outro, derrubando várias coisas ao chão, gargalhando enquanto fazia tudo isso. Akupara sabia da existência dos Simians e de seu deus, porém não imaginava que o mesmo estaria possuindo Barnabé, mas após o mesmo se proclamar como o Deus Rei Macaco, não havia mais dúvidas.
 
 :
 
-Akupara então, diz ao Phillip que para fazer o Barnabé retomar o controle de seu corpo, o mesmo deveria tomar um Chá forte de Flores de Lótus Brancas. Desde esse dia, Barnabé não tentou mais contato com o outro Macaco vivendo dentro de si, e toma regularmente o chá indicado por Akupara, cerca de uma vez a cada 2 dias.
+  Akupara então, diz ao Phillip que para fazer o Barnabé retomar o controle de seu corpo, o mesmo deveria tomar um Chá forte de Flores de Lótus Brancas. Desde esse dia, Barnabé não tentou mais contato com o outro Macaco vivendo dentro de si, e toma regularmente o chá indicado por Akupara, cerca de uma vez a cada 2 dias.
 Barnabé morreu fuzilado alguns anos após conhecer seu mestre, em uma emboscada feita por um criminoso que guardava rancor por ter matado e levado ao xerife o corpo de um membro de sua gangue.
 
 </div>
 
 {{pageNumber,auto}}
 {{footnote Archivium | Barnabé Sandshifter }}
+
+\page
+
+<!-- PARTE DO HALTS -->
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HALTS</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## APARÊNCIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## HABILIDADES</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+<div style="text-align: center;">
+
+  ## TRIVIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+{{descriptive
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+}}
+
+</div>
+
+\column
+
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+
+{{classTraits
+
+![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+
+<div style="text-align: center;">
+
+  #### HALTS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Alcunha**          {{width:32px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Pronúncia**        {{width:20px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CARACTERÍSTICAS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Espécie**          {{width:37px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Nascimento**       {{width:14px}}  Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Idade**            {{width:50px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Gênero**           {{width:40px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Altura**           {{width:47px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso**             {{width:55px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos**            {{width:50px}} Lorem ipsum 
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CONDIÇÃO</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Origem**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Afiliações**        {{width:32px}}  Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Ocupações**         {{width:26px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares**        {{width:29px}}  Lorem ipsum
+                                     {{width:127px}} Lorem ipsum
+
+  <div style="margin-top: 10px;"></div>
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Archivium | Halts }}
+
+\page
+
+<!-- PARTE DO HALTS -->
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+  DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+
+<div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat. Ut rutrum arcu vel nunc consectetur vehicula. Fusce imperdiet sagittis convallis. Duis vel risus quam. Maecenas ornare lacus vel ex imperdiet, sed tristique elit eleifend. Ut porttitor at mi vitae accumsan. Suspendisse eu lectus blandit, convallis leo sit amet, lobortis lacus. Duis a leo luctus, scelerisque felis a, consequat mauris. Sed turpis erat, ullamcorper vitae pulvinar ac, sollicitudin non ipsum.
+
+:
+
+  Fusce in lectus in arcu fringilla ullamcorper. Etiam suscipit maximus nisl, a dignissim augue laoreet vel. Donec lorem nulla, scelerisque ac aliquam sit amet, hendrerit sit amet lorem. Pellentesque egestas elementum dolor, in tincidunt nibh finibus vitae. Ut id ipsum scelerisque, suscipit leo nec, placerat tortor. Nullam posuere pretium nulla sit amet fermentum. Donec tempor luctus nunc et suscipit. Suspendisse interdum lorem nibh, ut imperdiet odio rhoncus ac. Pellentesque odio neque, faucibus gravida sem eu, cursus congue sem. Donec risus urna, pharetra in nisi eget, eleifend rhoncus justo. Vestibulum orci nunc, condimentum sit amet felis eu, pretium placerat lorem. Quisque dui libero, mollis sollicitudin orci nec, scelerisque ullamcorper diam. Cras id nibh varius, fringilla nisl eu, rhoncus metus. Quisque placerat, massa quis egestas gravida, metus enim mollis nibh, et ullamcorper augue dui posuere leo.
+
+:
+
+  Cras ultrices turpis eu odio malesuada, id blandit neque egestas. Nulla tristique hendrerit metus quis egestas. Etiam eu blandit lacus. Pellentesque pellentesque mauris eget nisl luctus fermentum. Morbi nibh odio, fermentum vel congue at, auctor ac lectus. Morbi ullamcorper sapien tincidunt arcu semper, sit amet accumsan mauris porta. Nam sodales turpis commodo tellus lacinia, quis congue quam sollicitudin. Nunc pulvinar condimentum velit et iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada cursus ipsum, in pharetra orci dictum sit amet. Sed a faucibus odio.
+
+:
+
+  Mauris ultrices, arcu id congue tempor, mi nunc venenatis sapien, in imperdiet augue lectus in purus. Sed ornare quis tellus in tincidunt. Sed turpis odio, lacinia blandit lorem ut, pellentesque mattis elit. Quisque massa sapien, varius at commodo nec, hendrerit sed urna. Donec nec accumsan lacus. Aliquam tincidunt eu massa quis ornare. Ut sapien ipsum, elementum et neque hendrerit, vestibulum tristique magna. Nulla venenatis dignissim dui, ut pellentesque ipsum molestie ut.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Halts }}
+
+\page
+
+<!-- PARTE DO LUDGE ANARCHY -->
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## LUDGE ANARCHY</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## APARÊNCIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## HABILIDADES</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+<div style="text-align: center;">
+
+  ## TRIVIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+{{descriptive
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+}}
+
+</div>
+
+\column
+
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+
+{{classTraits
+
+![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+
+<div style="text-align: center;">
+
+  #### LUDGE ANARCHY</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Alcunha**          {{width:32px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Pronúncia**        {{width:20px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CARACTERÍSTICAS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Espécie**          {{width:37px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Nascimento**       {{width:14px}}  Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Idade**            {{width:50px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Gênero**           {{width:40px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Altura**           {{width:47px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso**             {{width:55px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos**            {{width:50px}} Lorem ipsum 
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CONDIÇÃO</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Origem**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Afiliações**        {{width:32px}}  Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Ocupações**         {{width:26px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares**        {{width:29px}}  Lorem ipsum
+                                     {{width:127px}} Lorem ipsum
+
+  <div style="margin-top: 10px;"></div>
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Archivium | Ludge Anarchy }}
+
+\page
+
+<!-- PARTE DO LUDGE ANARCHY -->
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+  DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+
+<div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat. Ut rutrum arcu vel nunc consectetur vehicula. Fusce imperdiet sagittis convallis. Duis vel risus quam. Maecenas ornare lacus vel ex imperdiet, sed tristique elit eleifend. Ut porttitor at mi vitae accumsan. Suspendisse eu lectus blandit, convallis leo sit amet, lobortis lacus. Duis a leo luctus, scelerisque felis a, consequat mauris. Sed turpis erat, ullamcorper vitae pulvinar ac, sollicitudin non ipsum.
+
+:
+
+  Fusce in lectus in arcu fringilla ullamcorper. Etiam suscipit maximus nisl, a dignissim augue laoreet vel. Donec lorem nulla, scelerisque ac aliquam sit amet, hendrerit sit amet lorem. Pellentesque egestas elementum dolor, in tincidunt nibh finibus vitae. Ut id ipsum scelerisque, suscipit leo nec, placerat tortor. Nullam posuere pretium nulla sit amet fermentum. Donec tempor luctus nunc et suscipit. Suspendisse interdum lorem nibh, ut imperdiet odio rhoncus ac. Pellentesque odio neque, faucibus gravida sem eu, cursus congue sem. Donec risus urna, pharetra in nisi eget, eleifend rhoncus justo. Vestibulum orci nunc, condimentum sit amet felis eu, pretium placerat lorem. Quisque dui libero, mollis sollicitudin orci nec, scelerisque ullamcorper diam. Cras id nibh varius, fringilla nisl eu, rhoncus metus. Quisque placerat, massa quis egestas gravida, metus enim mollis nibh, et ullamcorper augue dui posuere leo.
+
+:
+
+  Cras ultrices turpis eu odio malesuada, id blandit neque egestas. Nulla tristique hendrerit metus quis egestas. Etiam eu blandit lacus. Pellentesque pellentesque mauris eget nisl luctus fermentum. Morbi nibh odio, fermentum vel congue at, auctor ac lectus. Morbi ullamcorper sapien tincidunt arcu semper, sit amet accumsan mauris porta. Nam sodales turpis commodo tellus lacinia, quis congue quam sollicitudin. Nunc pulvinar condimentum velit et iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada cursus ipsum, in pharetra orci dictum sit amet. Sed a faucibus odio.
+
+:
+
+  Mauris ultrices, arcu id congue tempor, mi nunc venenatis sapien, in imperdiet augue lectus in purus. Sed ornare quis tellus in tincidunt. Sed turpis odio, lacinia blandit lorem ut, pellentesque mattis elit. Quisque massa sapien, varius at commodo nec, hendrerit sed urna. Donec nec accumsan lacus. Aliquam tincidunt eu massa quis ornare. Ut sapien ipsum, elementum et neque hendrerit, vestibulum tristique magna. Nulla venenatis dignissim dui, ut pellentesque ipsum molestie ut.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Ludge Anarchy }}
+
+\page
+
+<!-- PARTE DO PABLO VEGGETI -->
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## PABLO VEGGETI</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## APARÊNCIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## HABILIDADES</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+<div style="text-align: center;">
+
+  ## TRIVIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+{{descriptive
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+}}
+
+</div>
+
+\column
+
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+
+{{classTraits
+
+![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+
+<div style="text-align: center;">
+
+  #### PABLO VEGGETI</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Alcunha**          {{width:32px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Pronúncia**        {{width:20px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CARACTERÍSTICAS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Espécie**          {{width:37px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Nascimento**       {{width:14px}}  Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Idade**            {{width:50px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Gênero**           {{width:40px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Altura**           {{width:47px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso**             {{width:55px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos**            {{width:50px}} Lorem ipsum 
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CONDIÇÃO</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Origem**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Afiliações**        {{width:32px}}  Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Ocupações**         {{width:26px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares**        {{width:29px}}  Lorem ipsum
+                                     {{width:127px}} Lorem ipsum
+
+  <div style="margin-top: 10px;"></div>
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Archivium | Pablo Veggeti }}
+
+\page
+
+<!-- PARTE DO PABLO VEGGETI -->
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+  DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+
+<div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat. Ut rutrum arcu vel nunc consectetur vehicula. Fusce imperdiet sagittis convallis. Duis vel risus quam. Maecenas ornare lacus vel ex imperdiet, sed tristique elit eleifend. Ut porttitor at mi vitae accumsan. Suspendisse eu lectus blandit, convallis leo sit amet, lobortis lacus. Duis a leo luctus, scelerisque felis a, consequat mauris. Sed turpis erat, ullamcorper vitae pulvinar ac, sollicitudin non ipsum.
+
+:
+
+  Fusce in lectus in arcu fringilla ullamcorper. Etiam suscipit maximus nisl, a dignissim augue laoreet vel. Donec lorem nulla, scelerisque ac aliquam sit amet, hendrerit sit amet lorem. Pellentesque egestas elementum dolor, in tincidunt nibh finibus vitae. Ut id ipsum scelerisque, suscipit leo nec, placerat tortor. Nullam posuere pretium nulla sit amet fermentum. Donec tempor luctus nunc et suscipit. Suspendisse interdum lorem nibh, ut imperdiet odio rhoncus ac. Pellentesque odio neque, faucibus gravida sem eu, cursus congue sem. Donec risus urna, pharetra in nisi eget, eleifend rhoncus justo. Vestibulum orci nunc, condimentum sit amet felis eu, pretium placerat lorem. Quisque dui libero, mollis sollicitudin orci nec, scelerisque ullamcorper diam. Cras id nibh varius, fringilla nisl eu, rhoncus metus. Quisque placerat, massa quis egestas gravida, metus enim mollis nibh, et ullamcorper augue dui posuere leo.
+
+:
+
+  Cras ultrices turpis eu odio malesuada, id blandit neque egestas. Nulla tristique hendrerit metus quis egestas. Etiam eu blandit lacus. Pellentesque pellentesque mauris eget nisl luctus fermentum. Morbi nibh odio, fermentum vel congue at, auctor ac lectus. Morbi ullamcorper sapien tincidunt arcu semper, sit amet accumsan mauris porta. Nam sodales turpis commodo tellus lacinia, quis congue quam sollicitudin. Nunc pulvinar condimentum velit et iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada cursus ipsum, in pharetra orci dictum sit amet. Sed a faucibus odio.
+
+:
+
+  Mauris ultrices, arcu id congue tempor, mi nunc venenatis sapien, in imperdiet augue lectus in purus. Sed ornare quis tellus in tincidunt. Sed turpis odio, lacinia blandit lorem ut, pellentesque mattis elit. Quisque massa sapien, varius at commodo nec, hendrerit sed urna. Donec nec accumsan lacus. Aliquam tincidunt eu massa quis ornare. Ut sapien ipsum, elementum et neque hendrerit, vestibulum tristique magna. Nulla venenatis dignissim dui, ut pellentesque ipsum molestie ut.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Pablo Veggeti }}
+
+\page
+
+<!-- PARTE DO ROSENKREUTZ KRATZENSTEIN -->
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## ROSENKREUTZ KRATZENSTEIN</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## APARÊNCIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## HABILIDADES</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+<div style="text-align: center;">
+
+  ## TRIVIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+{{descriptive
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+}}
+
+</div>
+
+\column
+
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+
+{{classTraits
+
+![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+
+<div style="text-align: center;">
+
+  #### ROSENKREUTZ KRATZENSTEIN</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Alcunha**          {{width:32px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Pronúncia**        {{width:20px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CARACTERÍSTICAS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Espécie**          {{width:37px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Nascimento**       {{width:14px}}  Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Idade**            {{width:50px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Gênero**           {{width:40px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Altura**           {{width:47px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso**             {{width:55px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos**            {{width:50px}} Lorem ipsum 
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CONDIÇÃO</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Origem**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Afiliações**        {{width:32px}}  Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Ocupações**         {{width:26px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares**        {{width:29px}}  Lorem ipsum
+                                     {{width:127px}} Lorem ipsum
+
+  <div style="margin-top: 10px;"></div>
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Archivium | Rosenkreutz Kratzenstein }}
+
+\page
+
+<!-- PARTE DO ROSENKREUTZ KRATZENSTEIN -->
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+  DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+
+<div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat. Ut rutrum arcu vel nunc consectetur vehicula. Fusce imperdiet sagittis convallis. Duis vel risus quam. Maecenas ornare lacus vel ex imperdiet, sed tristique elit eleifend. Ut porttitor at mi vitae accumsan. Suspendisse eu lectus blandit, convallis leo sit amet, lobortis lacus. Duis a leo luctus, scelerisque felis a, consequat mauris. Sed turpis erat, ullamcorper vitae pulvinar ac, sollicitudin non ipsum.
+
+:
+
+  Fusce in lectus in arcu fringilla ullamcorper. Etiam suscipit maximus nisl, a dignissim augue laoreet vel. Donec lorem nulla, scelerisque ac aliquam sit amet, hendrerit sit amet lorem. Pellentesque egestas elementum dolor, in tincidunt nibh finibus vitae. Ut id ipsum scelerisque, suscipit leo nec, placerat tortor. Nullam posuere pretium nulla sit amet fermentum. Donec tempor luctus nunc et suscipit. Suspendisse interdum lorem nibh, ut imperdiet odio rhoncus ac. Pellentesque odio neque, faucibus gravida sem eu, cursus congue sem. Donec risus urna, pharetra in nisi eget, eleifend rhoncus justo. Vestibulum orci nunc, condimentum sit amet felis eu, pretium placerat lorem. Quisque dui libero, mollis sollicitudin orci nec, scelerisque ullamcorper diam. Cras id nibh varius, fringilla nisl eu, rhoncus metus. Quisque placerat, massa quis egestas gravida, metus enim mollis nibh, et ullamcorper augue dui posuere leo.
+
+:
+
+  Cras ultrices turpis eu odio malesuada, id blandit neque egestas. Nulla tristique hendrerit metus quis egestas. Etiam eu blandit lacus. Pellentesque pellentesque mauris eget nisl luctus fermentum. Morbi nibh odio, fermentum vel congue at, auctor ac lectus. Morbi ullamcorper sapien tincidunt arcu semper, sit amet accumsan mauris porta. Nam sodales turpis commodo tellus lacinia, quis congue quam sollicitudin. Nunc pulvinar condimentum velit et iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada cursus ipsum, in pharetra orci dictum sit amet. Sed a faucibus odio.
+
+:
+
+  Mauris ultrices, arcu id congue tempor, mi nunc venenatis sapien, in imperdiet augue lectus in purus. Sed ornare quis tellus in tincidunt. Sed turpis odio, lacinia blandit lorem ut, pellentesque mattis elit. Quisque massa sapien, varius at commodo nec, hendrerit sed urna. Donec nec accumsan lacus. Aliquam tincidunt eu massa quis ornare. Ut sapien ipsum, elementum et neque hendrerit, vestibulum tristique magna. Nulla venenatis dignissim dui, ut pellentesque ipsum molestie ut.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Rosenkreutz Kratzenstein }}
+
+\page
+
+<!-- PARTE DO ZORA -->
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## ZORA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## APARÊNCIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## PERSONALIDADE</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+  <div style="text-align: center;">
+
+  ## HABILIDADES</div>
+
+  <div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+
+<div style="text-align: center;">
+
+  ## TRIVIA</div>
+
+  <div style="margin-top: 5px;"></div>
+
+{{descriptive
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+
+:
+
+  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+}}
+
+</div>
+
+\column
+
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+
+{{classTraits
+
+![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+
+<div style="text-align: center;">
+
+  #### ZORA</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Alcunha**          {{width:32px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Pronúncia**        {{width:20px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CARACTERÍSTICAS</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Espécie**          {{width:37px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Nascimento**       {{width:14px}}  Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Idade**            {{width:50px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Gênero**           {{width:40px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Altura**           {{width:47px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Peso**             {{width:55px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Cabelo**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+>{{width:30px}} **Olhos**            {{width:50px}} Lorem ipsum 
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+<div style="text-align: center;">
+
+  #### CONDIÇÃO</div>
+
+  <div style="margin-top: 10px;"></div>
+
+>{{width:30px}} **Origem**           {{width:44px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Afiliações**        {{width:32px}}  Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+                                     {{width:125px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Ocupações**         {{width:26px}} Lorem ipsum
+
+  <div style="margin-top: -10px;"></div>
+
+___
+
+  <div style="margin-top: -10px;"></div>
+
+{{width:30px}} **Familiares**        {{width:29px}}  Lorem ipsum
+                                     {{width:127px}} Lorem ipsum
+
+  <div style="margin-top: 10px;"></div>
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Archivium | Zora }}
+
+\page
+
+<!-- PARTE DO ZORA -->
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+
+{{caption,rightCaption
+  DESCRIÇÃO <BR> DA IMAGEM
+}}
+
+}}
+
+![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
+
+{{artist
+  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+
+<div style="margin-top: 5px;"></div>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat. Ut rutrum arcu vel nunc consectetur vehicula. Fusce imperdiet sagittis convallis. Duis vel risus quam. Maecenas ornare lacus vel ex imperdiet, sed tristique elit eleifend. Ut porttitor at mi vitae accumsan. Suspendisse eu lectus blandit, convallis leo sit amet, lobortis lacus. Duis a leo luctus, scelerisque felis a, consequat mauris. Sed turpis erat, ullamcorper vitae pulvinar ac, sollicitudin non ipsum.
+
+:
+
+  Fusce in lectus in arcu fringilla ullamcorper. Etiam suscipit maximus nisl, a dignissim augue laoreet vel. Donec lorem nulla, scelerisque ac aliquam sit amet, hendrerit sit amet lorem. Pellentesque egestas elementum dolor, in tincidunt nibh finibus vitae. Ut id ipsum scelerisque, suscipit leo nec, placerat tortor. Nullam posuere pretium nulla sit amet fermentum. Donec tempor luctus nunc et suscipit. Suspendisse interdum lorem nibh, ut imperdiet odio rhoncus ac. Pellentesque odio neque, faucibus gravida sem eu, cursus congue sem. Donec risus urna, pharetra in nisi eget, eleifend rhoncus justo. Vestibulum orci nunc, condimentum sit amet felis eu, pretium placerat lorem. Quisque dui libero, mollis sollicitudin orci nec, scelerisque ullamcorper diam. Cras id nibh varius, fringilla nisl eu, rhoncus metus. Quisque placerat, massa quis egestas gravida, metus enim mollis nibh, et ullamcorper augue dui posuere leo.
+
+:
+
+  Cras ultrices turpis eu odio malesuada, id blandit neque egestas. Nulla tristique hendrerit metus quis egestas. Etiam eu blandit lacus. Pellentesque pellentesque mauris eget nisl luctus fermentum. Morbi nibh odio, fermentum vel congue at, auctor ac lectus. Morbi ullamcorper sapien tincidunt arcu semper, sit amet accumsan mauris porta. Nam sodales turpis commodo tellus lacinia, quis congue quam sollicitudin. Nunc pulvinar condimentum velit et iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada cursus ipsum, in pharetra orci dictum sit amet. Sed a faucibus odio.
+
+:
+
+  Mauris ultrices, arcu id congue tempor, mi nunc venenatis sapien, in imperdiet augue lectus in purus. Sed ornare quis tellus in tincidunt. Sed turpis odio, lacinia blandit lorem ut, pellentesque mattis elit. Quisque massa sapien, varius at commodo nec, hendrerit sed urna. Donec nec accumsan lacus. Aliquam tincidunt eu massa quis ornare. Ut sapien ipsum, elementum et neque hendrerit, vestibulum tristique magna. Nulla venenatis dignissim dui, ut pellentesque ipsum molestie ut.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Zora }}
 
 \page
 
@@ -384,7 +1653,7 @@ Sheila, Diana, and Presto stand on the
 threshold of their next adventure
 }}
 
-# Bestiarium
+# Bestiarium <!-- SEGUNDO CAPITULO -->
 
 {{banner,--color:"rgba(177, 154, 120, 0.8)"
 ## Caçe as mais terríveis feras...
@@ -541,7 +1810,7 @@ Sheila, Diana, and Presto stand on the
 threshold of their next adventure
 }}
 
-# Grimorium
+# Grimorium <!-- TERCEIRO CAPITULO -->
 
 {{banner,--color:"rgba(177, 154, 120, 0.8)"
 ## Desbrave as mais antigas reliquias...
@@ -569,7 +1838,7 @@ Sheila, Diana, and Presto stand on the
 threshold of their next adventure
 }}
 
-# Sumarium
+# Sumarium <!-- QUARTO CAPITULO -->
 
 {{banner,--color:"rgba(177, 154, 120, 0.8)"
 ## Descubra as regras que regem o mundo...
