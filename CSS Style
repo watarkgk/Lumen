@@ -4,8 +4,7 @@
 @import url('https://rawcdn.githack.com/Kaiburr-kath-hound/HomebreweryStyles/b8a78e9cc74d925556a6e17b32894be6eb26935a/PHB2024Style.css');
 
 /* _______________________________________________________________ */
-
-
+  
 :root {
   --Note_Background   : #e8d7c4;
   --Descriptive       : #dae8ed;
@@ -39,7 +38,7 @@
     opacity           : 0.5;
     z-index           : -2;
   }
-
+ 
   /* HEADERS */
   h1, h2, h3, h4 {
     color             : var(--New_Dark_Red);
@@ -1117,9 +1116,9 @@
     &:has(.fullPage) {
       .artist {
         left            : 803px;
+        
+        
       }
     }
   }
 }
-
-
