@@ -1398,31 +1398,34 @@ ___
 
   <div style="margin-top: 5px;"></div>
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
-
+  É o nome da Fenix, uma jovem Aasimar que já viajou por todo o mundo em todas as epocas de sua existencia, criando lendas e relatos sobre a mesma diversas vezes na historia.
   <div style="text-align: center;">
 
   ## APARÊNCIA</div>
 
   <div style="margin-top: 5px;"></div>
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+  Sua pele é clara, levemente amarelada, e seu cabelo, de comprimento médio, é ruivo com reflexos dourados, que lembram o fogo, seus olhos têm um tom ambar incandescente, com brilho vívido, transmitindo uma conexão profunda com o Fogo e o Sol, usa um traje de couro resistente com blusa branca por baixo, botas, jaqueta com braçadeiras rígidas e joias de pedras com cores quentes, como ouro, rubi e âmbar.
+  Com o tempo suas chamas ficam mais intensas, ofuscando o ruivo de seus cabelos, tornando-se completamente loiros e brilhantes, eliminando qualquer possibilidade de furtividade, gerando desconforto, fazendo com que sua presença não seja bem-vinda em lugares onde é vista como uma ameaça ou fonte de inquietação
 
   <div style="text-align: center;">
 
   ## PERSONALIDADE</div>
 
   <div style="margin-top: 5px;"></div>
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+ 
+  Alegre, Curiosa e Destemida mas também indecisa e avessa a qualquer posição de liderança. Ela prefere apoiar os outros do que comandar, o que a torna uma aliada confiável.
 
   <div style="text-align: center;">
 
   ## HABILIDADES</div>
 
   <div style="margin-top: 5px;"></div>
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat.
+  
+  Não importa o inimigo, seu poder de fogo sempre vai ser maior.
+  
+  Possuindo o arsenal inteiro apenas com magias do tipo, não tendo magias de utilidades e não se  interessando em armas marciais. Conforme o tempo avança e seu poder aumentando graças a sua origem, tem acesso aos seus Tesouros Solares, se tornando uma feiticeira extremamente rapida e mortal em longas e curtas distancias.
+  
 
 <div style="text-align: center;">
 
@@ -1431,30 +1434,24 @@ ___
   <div style="margin-top: 5px;"></div>
 
 {{descriptive
-  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
-
+  • **Aquafresca.** Adora entrar em rios, mares e banheiras, ajuda a controlar as suas chamas.
 :
-
-  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
-
+  • **Tem de frango?.** Apesar de ser uma pessima cozinheira, suas comidas favoritas sempre envolvem algum tipo de ave assada, que ironia não?.
 :
-
-  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
-
+  • **Venator Proditorum.** Abomina traições, quase sempre executa os traidores(pessoas que revelam sua identidade e contam seus segredo são traidores para ela).
 :
-
-  • **Lorem ipsum.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum augue iaculis porttitor viverra.
+  • **Piromaniaca.** Acredita que tudo se resolve com o fogo, o que a faz constantemente queima as coisas, por diversão ou acidente, prefere ficar longe de animais peludos e coisas inflamaveis.
 }}
 
 </div>
 
 \column
 
-{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:40px,margin-top:5px} }}
+{{classSymbol ![](https://i.imgur.com/mzncOxG.png) {width:0px,margin-top:5px} }}
 
 {{classTraits
 
-![cat warrior](https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg) {width:300px,mix-blend-mode:multiply}
+![zoraperfil](https://i.imgur.com/w5b4mCG.png) {width:300px,mix-blend-mode:multiply}
 
 <div style="text-align: center;">
 
@@ -1462,7 +1459,7 @@ ___
 
   <div style="margin-top: 10px;"></div>
 
->{{width:30px}} **Alcunha**          {{width:32px}} Lorem ipsum
+>{{width:30px}} **Alcunha**          {{width:32px}} A Fenix
 
   <div style="margin-top: -10px;"></div>
 
@@ -1470,7 +1467,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Pronúncia**        {{width:20px}} Lorem ipsum
+>{{width:30px}} **Pronúncia**        {{width:20px}} ZO-RA 
 
   <div style="margin-top: -10px;"></div>
 
@@ -1482,7 +1479,7 @@ ___
 
   <div style="margin-top: 10px;"></div>
 
->{{width:30px}} **Espécie**          {{width:37px}} Lorem ipsum
+>{{width:30px}} **Espécie**          {{width:37px}} Aasimar
 
   <div style="margin-top: -10px;"></div>
 
@@ -1490,7 +1487,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Nascimento**       {{width:14px}}  Lorem ipsum
+>{{width:30px}} **Nascimento**       {{width:14px}} ???
 
   <div style="margin-top: -10px;"></div>
 
@@ -1498,7 +1495,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Idade**            {{width:50px}} Lorem ipsum
+>{{width:30px}} **Idade**            {{width:50px}} ???
 
   <div style="margin-top: -10px;"></div>
 
@@ -1506,7 +1503,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Gênero**           {{width:40px}} Lorem ipsum
+>{{width:30px}} **Gênero**           {{width:40px}} Feminino
 
   <div style="margin-top: -10px;"></div>
 
@@ -1514,7 +1511,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Altura**           {{width:47px}} Lorem ipsum
+>{{width:30px}} **Altura**           {{width:47px}} 175cm
 
   <div style="margin-top: -10px;"></div>
 
@@ -1522,7 +1519,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Peso**             {{width:55px}} Lorem ipsum
+>{{width:30px}} **Peso**             {{width:55px}} 60kg
 
   <div style="margin-top: -10px;"></div>
 
@@ -1530,7 +1527,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Cabelo**           {{width:44px}} Lorem ipsum
+>{{width:30px}} **Cabelo**           {{width:44px}} Ruivo/Loiro
 
   <div style="margin-top: -10px;"></div>
 
@@ -1538,7 +1535,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
->{{width:30px}} **Olhos**            {{width:50px}} Lorem ipsum 
+>{{width:30px}} **Olhos**            {{width:50px}} Ambar flamejante
 
   <div style="margin-top: -10px;"></div>
 
@@ -1550,7 +1547,7 @@ ___
 
   <div style="margin-top: 10px;"></div>
 
->{{width:30px}} **Origem**           {{width:44px}} Lorem ipsum
+>{{width:30px}} **Origem**           {{width:44px}} Cinzas
 
   <div style="margin-top: -10px;"></div>
 
@@ -1558,10 +1555,10 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
-{{width:30px}} **Afiliações**        {{width:32px}}  Lorem ipsum
-                                     {{width:125px}} Lorem ipsum
-                                     {{width:125px}} Lorem ipsum
-                                     {{width:125px}} Lorem ipsum
+{{width:30px}} **Afiliações**        {{width:32px}}  Não lembra
+                                     {{width:125px}} 
+                                     {{width:125px}} 
+                                     {{width:125px}} 
 
   <div style="margin-top: -10px;"></div>
 
@@ -1569,7 +1566,7 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
-{{width:30px}} **Ocupações**         {{width:26px}} Lorem ipsum
+{{width:30px}} **Ocupações**         {{width:26px}} Desempregada
 
   <div style="margin-top: -10px;"></div>
 
@@ -1577,8 +1574,8 @@ ___
 
   <div style="margin-top: -10px;"></div>
 
-{{width:30px}} **Familiares**        {{width:29px}}  Lorem ipsum
-                                     {{width:127px}} Lorem ipsum
+{{width:30px}} **Familiares**        {{width:29px}}  Não lembra
+                                     {{width:127px}} 
 
   <div style="margin-top: 10px;"></div>
 
@@ -1594,18 +1591,15 @@ ___
 --->
 {{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
 
-{{borderImage ![background image](https://i.imgur.com/a0h5d6D.jpg) {top:0px,left:0px} }} 
+{{borderImage ![background image](https://i.imgur.com/wEe0mYm.jpeg) {width:1000px;left:-330px} }} 
 
 {{caption,rightCaption
-  DESCRIÇÃO <BR> DA IMAGEM
+  A <BR> FENIX
 }}
-
 }}
-
-![background image](https://d.img.vision/kaiburrkathhound/Img3.png) {position:absolute,top:463px,left:11px,width:124px,z-index:1}
 
 {{artist
-  [Katerina Ladon](https://www.artstation.com/katerina_ladon)
+  [Matheus Lemos]
 }}
 
 \column
@@ -1615,22 +1609,105 @@ ___
   <div style="text-align: center;">
 
   ## HISTÓRIA</div>
+  Bennu, Fenghuang, Ho-Oh, Anqa, Simorgh, Garuda ou Fenix, estes são muitos dos nomes dados para a criatura lendária, vista por todos como um símbolo de renascimento, uma figura imortal de poder e esperança, sempre associada ao fogo e ao Sol. Para surpresa de muitos, a verdade por trás dessa mítica ave de fogo era menos majestosa e mais humana: Zora, era uma jovem aasimar alegre e indecisa, uma garota que vagava pelo mundo, constantemente em busca de algo que ela mesma não conseguia definir. Seu nome, já foi carregado e ainda é, com orgulho, por famílias da nobreza, um sinônimo de grandeza. Contudo, poucos sabem sua origem verdadeira, um segredo compartilhado apenas entre os grandes magos, caçadores lendários e governantes insanos, que conheciam o poder por trás do nome, ele pertencia à própria Fênix.
+
+Em uma de suas viagens, Zora encontrou um manuscrito antigo, onde viu uma referência a si mesma como “A queridinha do Sol”. Esse detalhe chamou sua atenção, pois entre os poucos fragmentos de memória que ela carregava, havia uma visão calorosa e reconfortante de um Sol gigantesco que a queimava e protegia ao mesmo tempo. Esse vislumbre do passado tornou-se sua única pista e uma motivação constante para seguir em frente, tentando descobrir quem ela era e de onde vinha. Zora também se lembrava vagamente de um enorme mural que encontrou uma vez em uma masmorra, retratando uma criança aasimar com uma coroa solar, uma imagem que sempre a intrigava.
+
+Para muitos, a imortalidade seria uma bênção, mas para Zora, viver e morrer infinitas vezes era um fardo pesado. Ela já não conseguia se lembrar de quem havia sido em suas vidas passadas, nem das emoções que sentira, dos amigos que tivera, das batalhas que vencera ou perdera. Apenas fragmentos dispersos de memória flutuavam em sua mente, pedaços desconexos de experiências que já não faziam sentido. Cansada desse ciclo sem fim, Zora traçou um objetivo: ela precisava ascender como uma divindade e voar até o Sol. Talvez ao se unir à fonte de sua força, ela pudesse recuperar todas as suas memórias e se tornar verdadeiramente completa.
+
+Mas o caminho até a Ascensão estava longe de ser simples, e Zora acumulou inimigos formidáveis ao longo de suas muitas vidas. Entre eles estava Heliogábalo, um imperador que se tornou obcecado com a ideia da imortalidade. Heliogábalo acreditava que consumir a carne da Fênix o tornaria eterno, e por isso colocou uma recompensa por sua captura. Zora acabou capturada por seus soldados e levada ao palácio do imperador para ser sacrificada em um festival. Em um ato desesperado para sobreviver, ela conseguiu ferir Heliogábalo com uma adaga em chamas antes de ser morta e se desintegrar em cinzas. Furioso pela perda, Heliogábalo ordenou a execução dos soldados que a mataram. Desde então, a caçada à Fênix se tornou uma obsessão pública, perpetuando o desejo de captura.
 
 <div style="margin-top: 5px;"></div>
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt commodo cursus. Ut sollicitudin sapien a dui varius aliquam. Maecenas vehicula interdum magna. Integer augue dui, efficitur sed magna quis, tincidunt consectetur elit. Curabitur finibus lectus nec lorem sagittis consequat. Ut rutrum arcu vel nunc consectetur vehicula. Fusce imperdiet sagittis convallis. Duis vel risus quam. Maecenas ornare lacus vel ex imperdiet, sed tristique elit eleifend. Ut porttitor at mi vitae accumsan. Suspendisse eu lectus blandit, convallis leo sit amet, lobortis lacus. Duis a leo luctus, scelerisque felis a, consequat mauris. Sed turpis erat, ullamcorper vitae pulvinar ac, sollicitudin non ipsum.
 
-:
 
-  Fusce in lectus in arcu fringilla ullamcorper. Etiam suscipit maximus nisl, a dignissim augue laoreet vel. Donec lorem nulla, scelerisque ac aliquam sit amet, hendrerit sit amet lorem. Pellentesque egestas elementum dolor, in tincidunt nibh finibus vitae. Ut id ipsum scelerisque, suscipit leo nec, placerat tortor. Nullam posuere pretium nulla sit amet fermentum. Donec tempor luctus nunc et suscipit. Suspendisse interdum lorem nibh, ut imperdiet odio rhoncus ac. Pellentesque odio neque, faucibus gravida sem eu, cursus congue sem. Donec risus urna, pharetra in nisi eget, eleifend rhoncus justo. Vestibulum orci nunc, condimentum sit amet felis eu, pretium placerat lorem. Quisque dui libero, mollis sollicitudin orci nec, scelerisque ullamcorper diam. Cras id nibh varius, fringilla nisl eu, rhoncus metus. Quisque placerat, massa quis egestas gravida, metus enim mollis nibh, et ullamcorper augue dui posuere leo.
+</div>
 
-:
+{{pageNumber,auto}}
+{{footnote Archivium | Zora }}
 
-  Cras ultrices turpis eu odio malesuada, id blandit neque egestas. Nulla tristique hendrerit metus quis egestas. Etiam eu blandit lacus. Pellentesque pellentesque mauris eget nisl luctus fermentum. Morbi nibh odio, fermentum vel congue at, auctor ac lectus. Morbi ullamcorper sapien tincidunt arcu semper, sit amet accumsan mauris porta. Nam sodales turpis commodo tellus lacinia, quis congue quam sollicitudin. Nunc pulvinar condimentum velit et iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada cursus ipsum, in pharetra orci dictum sit amet. Sed a faucibus odio.
+\page
 
-:
+<!-- PARTE DO ZORA -->
 
-  Mauris ultrices, arcu id congue tempor, mi nunc venenatis sapien, in imperdiet augue lectus in purus. Sed ornare quis tellus in tincidunt. Sed turpis odio, lacinia blandit lorem ut, pellentesque mattis elit. Quisque massa sapien, varius at commodo nec, hendrerit sed urna. Donec nec accumsan lacus. Aliquam tincidunt eu massa quis ornare. Ut sapien ipsum, elementum et neque hendrerit, vestibulum tristique magna. Nulla venenatis dignissim dui, ut pellentesque ipsum molestie ut.
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/wEe0mYm.jpeg) {width:1000px;left:-330px} }} 
+
+{{caption,rightCaption
+  A <BR> FENIX
+}}
+}}
+
+{{artist
+  [Matheus Lemos]
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+  Dentre os muitos inimigos que Zora acumulou em suas vidas, Morgana Le Fay se destaca como uma das mais cruéis e poderosas. Uma necromante elfa de grande renome, Morgana se interessou pela Fênix não apenas como uma lenda, mas como um experimento vivo. Ela desejava compreender os segredos da imortalidade que Zora possuía, querendo desvendar o mistério que permitia à Fênix renascer das cinzas. Em sua obsessão, Morgana capturou Zora, aprisionando-a em um local oculto onde pode estudá-la e submetê-la a experimentos terríveis.
+
+Morgana foi a única a conseguir controlar o ciclo de morte e renascimento de Zora, manipulando ao máximo cada detalhe da ressurreição da Fênix. Diversas vezess, a maga matou Zora por meio de feitiços e métodos obscuros, observando atentamente cada renascimento, tentando extrair dali os segredos para se tornar imortal. O ciclo de mortes repetidas fez com que Zora começasse a perder a esperança de se libertar, o próprio instinto de sobrevivência da Fênix parecia enfraquecido, rendido ao controle absoluto que a necromante tinha sobre sua vida.
+
+Um dia, enquanto tentava explorar as memórias de Zora, Morgana acessou acidentalmente uma lembrança antiga em que a Fênix, encurralada por inimigos, explodia em cinzas e se teletransportava para um local seguro. Ao abrir os olhos, Morgana percebeu que Zora havia desaparecido, escapando de seu cativeiro pela primeira vez em anos. Desde então, Morgana nunca mais foi vista, mas Zora ainda sente sua presença como uma sombra ameaçadora. Sempre que enfrenta mortos-vivos, tem a sensação de que a necromante está por perto, observando-a de longe.
+
+Entre os vários caçadores que cruzaram o caminho de Zora, Lilandra, vice-comandante dos Caçadores do Norte, é o mais insistente e irritante. Esse grupo tem como objetivo a caçar criaturas poderosas em troca de recompensas, e em um de seus trabalhos, Lilandra confrontou Zora. Foi uma batalha intensa, mas ele acabou a derrotando. No entanto, ao ver o corpo dela se transformar em cinzas e, em seguida, renascer diante de seus olhos, Lilandra ficou confuso, acreditando estar lidando com algum tipo de morto-vivo, que sem hesitar, a matou novamente.
+
+Isso repetiu em mais algumas ocasiões durante meses. Após cada batalha, Zora renascia, e Lilandra continuava a mata-la, cada vez mais convencido de que estava diante de um enigma sobrenatural. Certo dia, após mais uma dessas batalhas, Lilandra compartilhou suas estranhas experiências com seu grupo. Uma supersticiosa novata sugeriu que ele poderia estar lidando com a mítica Fênix, uma criatura que renascia das cinzas. Embora os outros tenham rido da ideia, Lilandra ficou obcecado, começando a acreditar que realmente havia encontrado uma lenda viva.
+
+<div style="margin-top: 5px;"></div>
+
+
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Archivium | Zora }}
+
+
+\page
+
+<!-- PARTE DO ZORA -->
+
+--->
+{{imageWrapper,--maskWidth:332px,--maskHeight:920px,--maskLeft:41px,--maskTop:29px
+
+{{borderImage ![background image](https://i.imgur.com/wEe0mYm.jpeg) {width:1000px;left:-330px} }} 
+
+{{caption,rightCaption
+  A <BR> FENIX
+}}
+}}
+
+{{artist
+  [Matheus Lemos]
+}}
+
+\column
+
+<div style="text-align: justify;">
+
+  <div style="text-align: center;">
+
+  ## HISTÓRIA</div>
+  A partir daí, ele passou a perseguir Zora com um misto de fascinação e um desejo de enfrenta-la, transformando cada confronto em uma espécie de jogo. Acompanhado por sua aprendiz, a clériga Anastacya – uma adolescente meio elfo de cabelos castanhos e pele parda a quem ele chamava de "Ana" – e montado em seu grifo Raat, Lilandra seguia Zora pelo mundo, enfrentando-a sempre que possível. Embora Zora não o visse como uma ameaça verdadeira, ela o considerava um inimigo incômodo epersistente.
+
+Em um dos momentos mais audaciosos de sua busca pela Ascensão, Zora decidiu que estava pronta para voar até o Sol. Em seu auge de poder, ascendeu aos céus com determinação, mas foi interrompida por uma presença monstruosa: Pedro, o Guardião dos Céus. Este gigantesco dragão, que irradiava uma aura inigualável de força e poder, apareceu diante dela, dizendo apenas uma palavra – “Morra” – antes de desintegrá-la instantaneamente. Esse encontro deixou uma marca profunda em Zora, que passou a ter pesadelos frequentes com o dragão e desenvolveu um medo intenso de tentar voar tão alto novamente.
+
+Bom, se você leu até aqui, vou te contar toda a verdade, seu nome verdadeiro é Zora Ortus Solis, que significa "Aurora da Ascensão do Sol." Zora é a filha única e herdeira do próprio Sol, nascida de uma pequena fagulha que se desprendeu da estrela nos primórdios da criação. Desde então, ela tem vagado por todas as eras, testemunhando cada ciclo e vivendo as incontáveis histórias deste universo. Seu poder, imensurável e ainda latente, cresce conforme o tempo passa, permitindo-lhe manipular as chamas solares por meio de tesouros e artefatos ancestrais que carrega dentro de si.
+
+Embora Zora não compreenda seu propósito, seu verdadeiro destino é assegurar o ciclo eterno de renascimento e prosperidade para a humanidade. De tempos em tempos, é chamada a intervir nos eventos do mundo, guiada por um instinto profundo que a leva a preservar o equilíbrio e proteger a ordem. Sua missão sempre foi é neutralizar as forças do caos que ameaçam a harmonia do universo, garantindo que o caos nunca ultrapasse a luz. Sem ter plena consciência disso, Zora é a própria chama da Justiça, uma centelha eterna que mantém viva a promessa de renovação, esperança e estabilidade para toda a criação.
+
+
+<div style="margin-top: 5px;"></div>
+
+
 
 </div>
 
